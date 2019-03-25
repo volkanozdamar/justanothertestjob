@@ -1,0 +1,264 @@
+PropertiesFile - INFO: Default browser is :chrome - 21:26:46.577
+TestBase - INFO: Test Started with : chrome browser - 21:26:46.579
+PropertiesFile - INFO: Default browser is :chrome - 21:28:33.447
+TestBase - INFO: Test Started with : chrome browser - 21:28:33.449
+PropertiesFile - INFO: Default browser is :chrome - 21:32:58.504
+TestBase - INFO: Test Started with : chrome browser - 21:32:58.507
+PropertiesFile - INFO: Default browser is :chrome - 21:34:12.015
+TestBase - INFO: Test Started with : chrome browser - 21:34:12.017
+PropertiesFile - INFO: Default url is :https://www.trendyol.com/Butik/Liste/Erkek - 21:34:15.167
+TestBase - INFO: Browser Launched - 21:34:18.827
+SecondTest - INFO: Test Close - 21:34:19.455
+SecondTest - INFO: Browser Closed - 21:34:20.156
+PropertiesFile - INFO: Default browser is :chrome - 21:37:37.052
+TestBase - INFO: Test Started with : chrome browser - 21:37:37.054
+PropertiesFile - INFO: Default url is :https://www.trendyol.com/Butik/Liste/Erkek - 21:37:40.156
+TestBase - INFO: Browser Launched - 21:37:43.503
+SecondTest - INFO: Test Close - 21:37:45.231
+SecondTest - INFO: Browser Closed - 21:37:45.931
+PropertiesFile - INFO: Default browser is :chrome - 21:45:10.186
+TestBase - INFO: Test Started with : chrome browser - 21:45:10.188
+PropertiesFile - INFO: Default url is :https://www.trendyol.com/Butik/Liste/Erkek - 21:45:13.052
+TestBase - INFO: Browser Launched - 21:45:16.190
+SecondTest - INFO: Test Close - 21:45:18.675
+SecondTest - INFO: Browser Closed - 21:45:19.412
+PropertiesFile - INFO: Default browser is :chrome - 21:45:54.382
+TestBase - INFO: Test Started with : chrome browser - 21:45:54.384
+PropertiesFile - INFO: Default url is :https://www.trendyol.com/Butik/Liste/Erkek - 21:45:57.292
+TestBase - INFO: Browser Launched - 21:46:02.075
+SecondTest - INFO: Test Close - 21:46:04.698
+SecondTest - INFO: Browser Closed - 21:46:05.578
+PropertiesFile - INFO: Default browser is :chrome - 21:54:01.896
+TestBase - INFO: Test Started with : chrome browser - 21:54:01.897
+PropertiesFile - INFO: Default url is :https://www.trendyol.com/Butik/Liste/Erkek - 21:54:05.666
+TestBase - INFO: Browser Launched - 21:54:09.407
+SecondTest - INFO: Test Close - 21:54:14.933
+SecondTest - INFO: Browser Closed - 21:54:15.618
+PropertiesFile - INFO: Default browser is :chrome - 21:55:13.231
+TestBase - INFO: Test Started with : chrome browser - 21:55:13.233
+PropertiesFile - INFO: Default url is :https://www.trendyol.com/Butik/Liste/Erkek - 21:55:16.147
+TestBase - INFO: Browser Launched - 21:55:20.915
+SecondTest - INFO: Test Close - 21:55:22.825
+SecondTest - INFO: Browser Closed - 21:55:23.503
+PropertiesFile - INFO: Default browser is :chrome - 21:56:11.915
+TestBase - INFO: Test Started with : chrome browser - 21:56:11.917
+PropertiesFile - INFO: Default url is :https://www.trendyol.com/Butik/Liste/Erkek - 21:56:14.747
+TestBase - INFO: Browser Launched - 21:56:17.872
+SecondTest - INFO: Test Close - 21:56:20.120
+SecondTest - INFO: Browser Closed - 21:56:20.815
+PropertiesFile - INFO: Default browser is :chrome - 22:04:51.679
+TestBase - INFO: Test Started with : chrome browser - 22:04:51.681
+PropertiesFile - INFO: Default url is :https://www.trendyol.com/Butik/Liste/Erkek - 22:04:54.632
+TestBase - INFO: Browser Launched - 22:04:57.418
+SecondTest - INFO: Test Close - 22:05:07.248
+SecondTest - INFO: Browser Closed - 22:05:07.955
+PropertiesFile - INFO: Default browser is :chrome - 22:22:58.056
+TestBase - INFO: Test Started with : chrome browser - 22:22:58.058
+PropertiesFile - INFO: Default url is :https://www.trendyol.com/Butik/Liste/Erkek - 22:23:01.222
+TestBase - INFO: Browser Launched - 22:23:06.416
+SecondTest - INFO: Test Close - 22:23:12.152
+SecondTest - INFO: Browser Closed - 22:23:12.843
+PropertiesFile - INFO: Default browser is :chrome - 22:32:39.098
+TestBase - INFO: Test Started with : chrome browser - 22:32:39.100
+PropertiesFile - INFO: Default url is :https://www.trendyol.com/Butik/Liste/Erkek - 22:32:43.515
+TestBase - INFO: Browser Launched - 22:32:47.023
+SecondTest - INFO: Test Close - 22:32:53.635
+SecondTest - INFO: Browser Closed - 22:32:54.311
+PropertiesFile - INFO: Default browser is :chrome - 22:34:14.585
+TestBase - INFO: Test Started with : chrome browser - 22:34:14.587
+PropertiesFile - INFO: Default url is :https://www.trendyol.com/Butik/Liste/Erkek - 22:34:19.328
+TestBase - INFO: Browser Launched - 22:34:23.909
+SecondTest - INFO: Test Close - 22:34:29.314
+SecondTest - INFO: Browser Closed - 22:34:30.007
+PropertiesFile - INFO: Default browser is :chrome - 23:08:05.273
+TestBase - INFO: Test Started with : chrome browser - 23:08:05.275
+PropertiesFile - INFO: Default url is :https://www.trendyol.com/Butik/Liste/Erkek - 23:08:10.179
+TestBase - INFO: Browser Launched - 23:08:13.147
+SecondTest - INFO: Test Close - 23:08:15.316
+SecondTest - INFO: Browser Closed - 23:08:16.135
+PropertiesFile - INFO: Default browser is :chrome - 23:26:54.887
+TestBase - INFO: Test Started with : chrome browser - 23:26:54.888
+PropertiesFile - INFO: Default url is :https://www.trendyol.com/Butik/Liste/Erkek - 23:27:00.604
+TestBase - INFO: Browser Launched - 23:27:05.880
+SecondTest - INFO: Test Close - 23:27:10.487
+SecondTest - INFO: Browser Closed - 23:27:11.191
+PropertiesFile - INFO: Default browser is :chrome - 23:33:08.699
+TestBase - INFO: Test Started with : chrome browser - 23:33:08.701
+PropertiesFile - INFO: Default url is :https://www.trendyol.com/Butik/Liste/Erkek - 23:33:14.141
+TestBase - INFO: Browser Launched - 23:33:18.735
+SecondTest - INFO: Test Close - 23:33:20.568
+SecondTest - INFO: Browser Closed - 23:33:21.283
+PropertiesFile - INFO: Default browser is :chrome - 23:33:41.822
+TestBase - INFO: Test Started with : chrome browser - 23:33:41.825
+PropertiesFile - INFO: Default url is :https://www.trendyol.com/Butik/Liste/Erkek - 23:33:45.361
+TestBase - INFO: Browser Launched - 23:33:49.420
+SecondTest - INFO: Test Close - 23:33:55.318
+SecondTest - INFO: Browser Closed - 23:33:56.060
+PropertiesFile - INFO: Default browser is :chrome - 00:19:04.552
+TestBase - INFO: Test Started with : chrome browser - 00:19:04.553
+PropertiesFile - INFO: Default url is :https://www.trendyol.com/Butik/Liste/Erkek - 00:19:10.784
+TestBase - INFO: Browser Launched - 00:19:18.085
+ExcelReader - ERROR: Messege : The supplied file was empty (zero bytes long) - 00:19:30.716
+ExcelReader - ERROR: Cause : null - 00:19:30.716
+ExcelReader - ERROR: Messege : Fail to save: an error occurs while saving the package : The part /docProps/app.xml failed to be saved in the stream with marshaller org.apache.poi.openxml4j.opc.internal.marshallers.DefaultMarshaller@2f3c6ac4 - 00:19:31.585
+ExcelReader - ERROR: Cause : org.apache.poi.openxml4j.exceptions.OpenXML4JException: The part /docProps/app.xml failed to be saved in the stream with marshaller org.apache.poi.openxml4j.opc.internal.marshallers.DefaultMarshaller@2f3c6ac4 - 00:19:31.585
+ExcelReader - ERROR: Messege : Could not open the specified zip entry source stream - 00:19:31.798
+ExcelReader - ERROR: Cause : java.io.EOFException - 00:19:31.799
+ExcelReader - ERROR: Messege : Could not open the specified zip entry source stream - 00:19:31.969
+ExcelReader - ERROR: Cause : java.io.EOFException - 00:19:31.969
+ExcelReader - ERROR: Messege : Could not open the specified zip entry source stream - 00:19:32.123
+ExcelReader - ERROR: Cause : java.io.EOFException - 00:19:32.123
+ExcelReader - ERROR: Messege : Could not open the specified zip entry source stream - 00:19:32.341
+ExcelReader - ERROR: Cause : java.io.EOFException - 00:19:32.341
+ExcelReader - ERROR: Messege : Could not open the specified zip entry source stream - 00:19:32.572
+ExcelReader - ERROR: Cause : java.io.EOFException - 00:19:32.572
+ExcelReader - ERROR: Messege : Could not open the specified zip entry source stream - 00:19:32.769
+ExcelReader - ERROR: Cause : java.io.EOFException - 00:19:32.769
+ExcelReader - ERROR: Messege : Could not open the specified zip entry source stream - 00:19:32.922
+ExcelReader - ERROR: Cause : java.io.EOFException - 00:19:32.922
+ExcelReader - ERROR: Messege : Could not open the specified zip entry source stream - 00:19:33.116
+ExcelReader - ERROR: Cause : java.io.EOFException - 00:19:33.116
+ExcelReader - ERROR: Messege : Could not open the specified zip entry source stream - 00:19:33.393
+ExcelReader - ERROR: Cause : java.io.EOFException - 00:19:33.393
+ExcelReader - ERROR: Messege : Could not open the specified zip entry source stream - 00:19:33.587
+ExcelReader - ERROR: Cause : java.io.EOFException - 00:19:33.587
+ExcelReader - ERROR: Messege : Could not open the specified zip entry source stream - 00:19:33.822
+ExcelReader - ERROR: Cause : java.io.EOFException - 00:19:33.822
+ExcelReader - ERROR: Messege : Could not open the specified zip entry source stream - 00:19:33.967
+ExcelReader - ERROR: Cause : java.io.EOFException - 00:19:33.967
+ExcelReader - ERROR: Messege : Could not open the specified zip entry source stream - 00:19:34.184
+ExcelReader - ERROR: Cause : java.io.EOFException - 00:19:34.184
+ExcelReader - ERROR: Messege : Could not open the specified zip entry source stream - 00:19:34.426
+ExcelReader - ERROR: Cause : java.io.EOFException - 00:19:34.426
+ExcelReader - ERROR: Messege : Could not open the specified zip entry source stream - 00:19:34.599
+ExcelReader - ERROR: Cause : java.io.EOFException - 00:19:34.599
+ExcelReader - ERROR: Messege : Could not open the specified zip entry source stream - 00:19:34.778
+ExcelReader - ERROR: Cause : java.io.EOFException - 00:19:34.778
+ExcelReader - ERROR: Messege : Could not open the specified zip entry source stream - 00:19:35.003
+ExcelReader - ERROR: Cause : java.io.EOFException - 00:19:35.003
+ExcelReader - ERROR: Messege : Could not open the specified zip entry source stream - 00:19:35.188
+ExcelReader - ERROR: Cause : java.io.EOFException - 00:19:35.188
+ExcelReader - ERROR: Messege : Could not open the specified zip entry source stream - 00:19:35.370
+ExcelReader - ERROR: Cause : java.io.EOFException - 00:19:35.370
+SecondTest - INFO: Test Close - 00:19:35.474
+SecondTest - INFO: Browser Closed - 00:19:36.143
+PropertiesFile - INFO: Default browser is :chrome - 00:27:49.237
+TestBase - INFO: Test Started with : chrome browser - 00:27:49.239
+PropertiesFile - INFO: Default url is :https://www.trendyol.com/Butik/Liste/Erkek - 00:27:52.699
+TestBase - INFO: Browser Launched - 00:28:08.934
+ExcelReader - ERROR: Messege : The supplied file was empty (zero bytes long) - 00:28:11.350
+ExcelReader - ERROR: Cause : null - 00:28:11.350
+ExcelReader - ERROR: Messege : Fail to save: an error occurs while saving the package : The part /docProps/app.xml failed to be saved in the stream with marshaller org.apache.poi.openxml4j.opc.internal.marshallers.DefaultMarshaller@2cd2c8fe - 00:28:11.409
+ExcelReader - ERROR: Cause : org.apache.poi.openxml4j.exceptions.OpenXML4JException: The part /docProps/app.xml failed to be saved in the stream with marshaller org.apache.poi.openxml4j.opc.internal.marshallers.DefaultMarshaller@2cd2c8fe - 00:28:11.409
+ExcelReader - ERROR: Messege : Could not open the specified zip entry source stream - 00:28:11.706
+ExcelReader - ERROR: Cause : java.io.EOFException - 00:28:11.706
+ExcelReader - ERROR: Messege : Could not open the specified zip entry source stream - 00:28:11.849
+ExcelReader - ERROR: Cause : java.io.EOFException - 00:28:11.849
+ExcelReader - ERROR: Messege : Could not open the specified zip entry source stream - 00:28:12.072
+ExcelReader - ERROR: Cause : java.io.EOFException - 00:28:12.073
+ExcelReader - ERROR: Messege : Could not open the specified zip entry source stream - 00:28:12.265
+ExcelReader - ERROR: Cause : java.io.EOFException - 00:28:12.265
+ExcelReader - ERROR: Messege : Could not open the specified zip entry source stream - 00:28:12.452
+ExcelReader - ERROR: Cause : java.io.EOFException - 00:28:12.452
+ExcelReader - ERROR: Messege : Could not open the specified zip entry source stream - 00:28:12.634
+ExcelReader - ERROR: Cause : java.io.EOFException - 00:28:12.634
+ExcelReader - ERROR: Messege : Could not open the specified zip entry source stream - 00:28:12.821
+ExcelReader - ERROR: Cause : java.io.EOFException - 00:28:12.821
+ExcelReader - ERROR: Messege : Could not open the specified zip entry source stream - 00:28:12.991
+ExcelReader - ERROR: Cause : java.io.EOFException - 00:28:12.991
+ExcelReader - ERROR: Messege : Could not open the specified zip entry source stream - 00:28:13.208
+ExcelReader - ERROR: Cause : java.io.EOFException - 00:28:13.208
+ExcelReader - ERROR: Messege : Could not open the specified zip entry source stream - 00:28:13.347
+ExcelReader - ERROR: Cause : java.io.EOFException - 00:28:13.348
+ExcelReader - ERROR: Messege : Could not open the specified zip entry source stream - 00:28:13.499
+ExcelReader - ERROR: Cause : java.io.EOFException - 00:28:13.499
+ExcelReader - ERROR: Messege : Could not open the specified zip entry source stream - 00:28:13.914
+ExcelReader - ERROR: Cause : java.io.EOFException - 00:28:13.915
+ExcelReader - ERROR: Messege : Could not open the specified zip entry source stream - 00:28:14.123
+ExcelReader - ERROR: Cause : java.io.EOFException - 00:28:14.123
+ExcelReader - ERROR: Messege : Could not open the specified zip entry source stream - 00:28:14.406
+ExcelReader - ERROR: Cause : java.io.EOFException - 00:28:14.406
+ExcelReader - ERROR: Messege : Could not open the specified zip entry source stream - 00:28:14.558
+ExcelReader - ERROR: Cause : java.io.EOFException - 00:28:14.558
+ExcelReader - ERROR: Messege : Could not open the specified zip entry source stream - 00:28:14.755
+ExcelReader - ERROR: Cause : java.io.EOFException - 00:28:14.756
+ExcelReader - ERROR: Messege : Could not open the specified zip entry source stream - 00:28:14.949
+ExcelReader - ERROR: Cause : java.io.EOFException - 00:28:14.949
+ExcelReader - ERROR: Messege : Could not open the specified zip entry source stream - 00:28:15.145
+ExcelReader - ERROR: Cause : java.io.EOFException - 00:28:15.145
+ExcelReader - ERROR: Messege : Could not open the specified zip entry source stream - 00:28:15.351
+ExcelReader - ERROR: Cause : java.io.EOFException - 00:28:15.351
+ExcelReader - ERROR: Messege : Could not open the specified zip entry source stream - 00:28:15.357
+ExcelReader - ERROR: Cause : java.io.EOFException - 00:28:15.357
+SecondTest - INFO: Test Close - 00:28:15.463
+SecondTest - INFO: Browser Closed - 00:28:16.122
+PropertiesFile - INFO: Default browser is :chrome - 00:29:42.221
+TestBase - INFO: Test Started with : chrome browser - 00:29:42.222
+PropertiesFile - INFO: Default url is :https://www.trendyol.com/Butik/Liste/Erkek - 00:29:45.395
+TestBase - INFO: Browser Launched - 00:29:49.362
+ExcelReader - ERROR: Messege : Could not open the specified zip entry source stream - 00:29:52.247
+ExcelReader - ERROR: Cause : java.io.EOFException - 00:29:52.247
+ExcelReader - ERROR: Messege : Could not open the specified zip entry source stream - 00:29:52.689
+ExcelReader - ERROR: Cause : java.io.EOFException - 00:29:52.689
+ExcelReader - ERROR: Messege : Could not open the specified zip entry source stream - 00:29:52.925
+ExcelReader - ERROR: Cause : java.io.EOFException - 00:29:52.925
+ExcelReader - ERROR: Messege : Could not open the specified zip entry source stream - 00:29:53.274
+ExcelReader - ERROR: Cause : java.io.EOFException - 00:29:53.274
+ExcelReader - ERROR: Messege : Could not open the specified zip entry source stream - 00:29:53.502
+ExcelReader - ERROR: Cause : java.io.EOFException - 00:29:53.502
+ExcelReader - ERROR: Messege : Could not open the specified zip entry source stream - 00:29:53.798
+ExcelReader - ERROR: Cause : java.io.EOFException - 00:29:53.798
+ExcelReader - ERROR: Messege : Could not open the specified zip entry source stream - 00:29:54.266
+ExcelReader - ERROR: Cause : java.io.EOFException - 00:29:54.267
+ExcelReader - ERROR: Messege : Could not open the specified zip entry source stream - 00:29:54.504
+ExcelReader - ERROR: Cause : java.io.EOFException - 00:29:54.504
+ExcelReader - ERROR: Messege : Could not open the specified zip entry source stream - 00:29:54.772
+ExcelReader - ERROR: Cause : java.io.EOFException - 00:29:54.772
+ExcelReader - ERROR: Messege : Could not open the specified zip entry source stream - 00:29:54.989
+ExcelReader - ERROR: Cause : java.io.EOFException - 00:29:54.989
+ExcelReader - ERROR: Messege : Could not open the specified zip entry source stream - 00:29:55.211
+ExcelReader - ERROR: Cause : java.io.EOFException - 00:29:55.211
+ExcelReader - ERROR: Messege : Could not open the specified zip entry source stream - 00:29:55.494
+ExcelReader - ERROR: Cause : java.io.EOFException - 00:29:55.494
+ExcelReader - ERROR: Messege : Could not open the specified zip entry source stream - 00:29:55.753
+ExcelReader - ERROR: Cause : java.io.EOFException - 00:29:55.753
+ExcelReader - ERROR: Messege : Could not open the specified zip entry source stream - 00:29:56.069
+ExcelReader - ERROR: Cause : java.io.EOFException - 00:29:56.069
+ExcelReader - ERROR: Messege : Could not open the specified zip entry source stream - 00:29:56.231
+ExcelReader - ERROR: Cause : java.io.EOFException - 00:29:56.231
+SecondTest - INFO: Test Close - 00:30:00.914
+SecondTest - INFO: Browser Closed - 00:30:01.476
+PropertiesFile - INFO: Default browser is :chrome - 00:30:16.871
+TestBase - INFO: Test Started with : chrome browser - 00:30:16.873
+PropertiesFile - INFO: Default url is :https://www.trendyol.com/Butik/Liste/Erkek - 00:30:20.550
+TestBase - INFO: Browser Launched - 00:30:26.109
+ExcelReader - ERROR: Messege : Could not open the specified zip entry source stream - 00:30:28.216
+ExcelReader - ERROR: Cause : java.io.EOFException - 00:30:28.216
+SecondTest - INFO: Test Close - 00:30:28.317
+SecondTest - INFO: Browser Closed - 00:30:29.269
+PropertiesFile - INFO: Default browser is :chrome - 00:32:44.546
+TestBase - INFO: Test Started with : chrome browser - 00:32:44.548
+PropertiesFile - INFO: Default url is :https://www.trendyol.com/Butik/Liste/Erkek - 00:32:47.544
+TestBase - INFO: Browser Launched - 00:32:50.475
+ExcelReader - ERROR: Messege : The supplied file was empty (zero bytes long) - 00:32:52.727
+ExcelReader - ERROR: Cause : null - 00:32:52.728
+ExcelReader - ERROR: Messege : Fail to save: an error occurs while saving the package : The part /docProps/app.xml failed to be saved in the stream with marshaller org.apache.poi.openxml4j.opc.internal.marshallers.DefaultMarshaller@5b444398 - 00:32:52.785
+ExcelReader - ERROR: Cause : org.apache.poi.openxml4j.exceptions.OpenXML4JException: The part /docProps/app.xml failed to be saved in the stream with marshaller org.apache.poi.openxml4j.opc.internal.marshallers.DefaultMarshaller@5b444398 - 00:32:52.785
+SecondTest - INFO: Test Close - 00:32:52.884
+SecondTest - INFO: Browser Closed - 00:32:53.575
+PropertiesFile - INFO: Default browser is :chrome - 00:43:58.809
+TestBase - INFO: Test Started with : chrome browser - 00:43:58.811
+PropertiesFile - INFO: Default url is :https://www.trendyol.com/Butik/Liste/Erkek - 00:44:02.043
+TestBase - INFO: Browser Launched - 00:44:06.315
+ExcelReader - ERROR: Messege : Could not open the specified zip entry source stream - 00:44:08.156
+ExcelReader - ERROR: Cause : java.io.EOFException - 00:44:08.156
+SecondTest - INFO: Test Close - 00:44:08.271
+SecondTest - INFO: Browser Closed - 00:44:08.940
+PropertiesFile - INFO: Default browser is :chrome - 00:46:15.917
+TestBase - INFO: Test Started with : chrome browser - 00:46:15.920
+PropertiesFile - INFO: Default url is :https://www.trendyol.com/Butik/Liste/Erkek - 00:46:18.866
+TestBase - INFO: Browser Launched - 00:46:27.403
+ExcelReader - ERROR: Messege : null - 00:46:29.341
+ExcelReader - ERROR: Cause : null - 00:46:29.341
+SecondTest - INFO: Test Close - 00:46:29.446
+SecondTest - INFO: Browser Closed - 00:46:30.117
