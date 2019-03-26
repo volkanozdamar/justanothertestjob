@@ -1,5 +1,6 @@
 
 import excelreader.ExcelReader;
+import excelreader.ExcelWriter;
 import object_repository.MainPage;
 import org.openqa.selenium.WebDriver;
 import testbase.TestBase;
@@ -12,7 +13,7 @@ import org.tinylog.Logger;
 import java.io.IOException;
 import java.util.List;
 
-public class SecondTest extends TestBase{
+public class FirstTest extends TestBase{
     @VisibleForTesting
     private WebDriver driver;
     @BeforeTest
@@ -22,10 +23,9 @@ public class SecondTest extends TestBase{
     }
     @Test(description = "Firefox Test")
     public void myTest() throws IOException {
-        ExcelReader.setExcelPath("data.xlsx");
-        System.out.println(ExcelReader.getRowData("Sheet1",0,0));
-        ExcelReader.setRowData("Sheet1",0,0,"Change2");
-        System.out.println(ExcelReader.getRowData("Sheet1",0,0));
+        MainPage mainPage = new MainPage(driver);
+        ExcelWriter.write("Book1.xlsx","Sheet1","a",0);
+        ExcelWriter.write("Book1.xlsx","Sheet1","b",1);
     }
 
     @AfterTest

@@ -1,264 +1,282 @@
-PropertiesFile - INFO: Default browser is :chrome - 21:26:46.577
-TestBase - INFO: Test Started with : chrome browser - 21:26:46.579
-PropertiesFile - INFO: Default browser is :chrome - 21:28:33.447
-TestBase - INFO: Test Started with : chrome browser - 21:28:33.449
-PropertiesFile - INFO: Default browser is :chrome - 21:32:58.504
-TestBase - INFO: Test Started with : chrome browser - 21:32:58.507
-PropertiesFile - INFO: Default browser is :chrome - 21:34:12.015
-TestBase - INFO: Test Started with : chrome browser - 21:34:12.017
-PropertiesFile - INFO: Default url is :https://www.trendyol.com/Butik/Liste/Erkek - 21:34:15.167
-TestBase - INFO: Browser Launched - 21:34:18.827
-SecondTest - INFO: Test Close - 21:34:19.455
-SecondTest - INFO: Browser Closed - 21:34:20.156
-PropertiesFile - INFO: Default browser is :chrome - 21:37:37.052
-TestBase - INFO: Test Started with : chrome browser - 21:37:37.054
-PropertiesFile - INFO: Default url is :https://www.trendyol.com/Butik/Liste/Erkek - 21:37:40.156
-TestBase - INFO: Browser Launched - 21:37:43.503
-SecondTest - INFO: Test Close - 21:37:45.231
-SecondTest - INFO: Browser Closed - 21:37:45.931
-PropertiesFile - INFO: Default browser is :chrome - 21:45:10.186
-TestBase - INFO: Test Started with : chrome browser - 21:45:10.188
-PropertiesFile - INFO: Default url is :https://www.trendyol.com/Butik/Liste/Erkek - 21:45:13.052
-TestBase - INFO: Browser Launched - 21:45:16.190
-SecondTest - INFO: Test Close - 21:45:18.675
-SecondTest - INFO: Browser Closed - 21:45:19.412
-PropertiesFile - INFO: Default browser is :chrome - 21:45:54.382
-TestBase - INFO: Test Started with : chrome browser - 21:45:54.384
-PropertiesFile - INFO: Default url is :https://www.trendyol.com/Butik/Liste/Erkek - 21:45:57.292
-TestBase - INFO: Browser Launched - 21:46:02.075
-SecondTest - INFO: Test Close - 21:46:04.698
-SecondTest - INFO: Browser Closed - 21:46:05.578
-PropertiesFile - INFO: Default browser is :chrome - 21:54:01.896
-TestBase - INFO: Test Started with : chrome browser - 21:54:01.897
-PropertiesFile - INFO: Default url is :https://www.trendyol.com/Butik/Liste/Erkek - 21:54:05.666
-TestBase - INFO: Browser Launched - 21:54:09.407
-SecondTest - INFO: Test Close - 21:54:14.933
-SecondTest - INFO: Browser Closed - 21:54:15.618
-PropertiesFile - INFO: Default browser is :chrome - 21:55:13.231
-TestBase - INFO: Test Started with : chrome browser - 21:55:13.233
-PropertiesFile - INFO: Default url is :https://www.trendyol.com/Butik/Liste/Erkek - 21:55:16.147
-TestBase - INFO: Browser Launched - 21:55:20.915
-SecondTest - INFO: Test Close - 21:55:22.825
-SecondTest - INFO: Browser Closed - 21:55:23.503
-PropertiesFile - INFO: Default browser is :chrome - 21:56:11.915
-TestBase - INFO: Test Started with : chrome browser - 21:56:11.917
-PropertiesFile - INFO: Default url is :https://www.trendyol.com/Butik/Liste/Erkek - 21:56:14.747
-TestBase - INFO: Browser Launched - 21:56:17.872
-SecondTest - INFO: Test Close - 21:56:20.120
-SecondTest - INFO: Browser Closed - 21:56:20.815
-PropertiesFile - INFO: Default browser is :chrome - 22:04:51.679
-TestBase - INFO: Test Started with : chrome browser - 22:04:51.681
-PropertiesFile - INFO: Default url is :https://www.trendyol.com/Butik/Liste/Erkek - 22:04:54.632
-TestBase - INFO: Browser Launched - 22:04:57.418
-SecondTest - INFO: Test Close - 22:05:07.248
-SecondTest - INFO: Browser Closed - 22:05:07.955
-PropertiesFile - INFO: Default browser is :chrome - 22:22:58.056
-TestBase - INFO: Test Started with : chrome browser - 22:22:58.058
-PropertiesFile - INFO: Default url is :https://www.trendyol.com/Butik/Liste/Erkek - 22:23:01.222
-TestBase - INFO: Browser Launched - 22:23:06.416
-SecondTest - INFO: Test Close - 22:23:12.152
-SecondTest - INFO: Browser Closed - 22:23:12.843
-PropertiesFile - INFO: Default browser is :chrome - 22:32:39.098
-TestBase - INFO: Test Started with : chrome browser - 22:32:39.100
-PropertiesFile - INFO: Default url is :https://www.trendyol.com/Butik/Liste/Erkek - 22:32:43.515
-TestBase - INFO: Browser Launched - 22:32:47.023
-SecondTest - INFO: Test Close - 22:32:53.635
-SecondTest - INFO: Browser Closed - 22:32:54.311
-PropertiesFile - INFO: Default browser is :chrome - 22:34:14.585
-TestBase - INFO: Test Started with : chrome browser - 22:34:14.587
-PropertiesFile - INFO: Default url is :https://www.trendyol.com/Butik/Liste/Erkek - 22:34:19.328
-TestBase - INFO: Browser Launched - 22:34:23.909
-SecondTest - INFO: Test Close - 22:34:29.314
-SecondTest - INFO: Browser Closed - 22:34:30.007
-PropertiesFile - INFO: Default browser is :chrome - 23:08:05.273
-TestBase - INFO: Test Started with : chrome browser - 23:08:05.275
-PropertiesFile - INFO: Default url is :https://www.trendyol.com/Butik/Liste/Erkek - 23:08:10.179
-TestBase - INFO: Browser Launched - 23:08:13.147
-SecondTest - INFO: Test Close - 23:08:15.316
-SecondTest - INFO: Browser Closed - 23:08:16.135
-PropertiesFile - INFO: Default browser is :chrome - 23:26:54.887
-TestBase - INFO: Test Started with : chrome browser - 23:26:54.888
-PropertiesFile - INFO: Default url is :https://www.trendyol.com/Butik/Liste/Erkek - 23:27:00.604
-TestBase - INFO: Browser Launched - 23:27:05.880
-SecondTest - INFO: Test Close - 23:27:10.487
-SecondTest - INFO: Browser Closed - 23:27:11.191
-PropertiesFile - INFO: Default browser is :chrome - 23:33:08.699
-TestBase - INFO: Test Started with : chrome browser - 23:33:08.701
-PropertiesFile - INFO: Default url is :https://www.trendyol.com/Butik/Liste/Erkek - 23:33:14.141
-TestBase - INFO: Browser Launched - 23:33:18.735
-SecondTest - INFO: Test Close - 23:33:20.568
-SecondTest - INFO: Browser Closed - 23:33:21.283
-PropertiesFile - INFO: Default browser is :chrome - 23:33:41.822
-TestBase - INFO: Test Started with : chrome browser - 23:33:41.825
-PropertiesFile - INFO: Default url is :https://www.trendyol.com/Butik/Liste/Erkek - 23:33:45.361
-TestBase - INFO: Browser Launched - 23:33:49.420
-SecondTest - INFO: Test Close - 23:33:55.318
-SecondTest - INFO: Browser Closed - 23:33:56.060
-PropertiesFile - INFO: Default browser is :chrome - 00:19:04.552
-TestBase - INFO: Test Started with : chrome browser - 00:19:04.553
-PropertiesFile - INFO: Default url is :https://www.trendyol.com/Butik/Liste/Erkek - 00:19:10.784
-TestBase - INFO: Browser Launched - 00:19:18.085
-ExcelReader - ERROR: Messege : The supplied file was empty (zero bytes long) - 00:19:30.716
-ExcelReader - ERROR: Cause : null - 00:19:30.716
-ExcelReader - ERROR: Messege : Fail to save: an error occurs while saving the package : The part /docProps/app.xml failed to be saved in the stream with marshaller org.apache.poi.openxml4j.opc.internal.marshallers.DefaultMarshaller@2f3c6ac4 - 00:19:31.585
-ExcelReader - ERROR: Cause : org.apache.poi.openxml4j.exceptions.OpenXML4JException: The part /docProps/app.xml failed to be saved in the stream with marshaller org.apache.poi.openxml4j.opc.internal.marshallers.DefaultMarshaller@2f3c6ac4 - 00:19:31.585
-ExcelReader - ERROR: Messege : Could not open the specified zip entry source stream - 00:19:31.798
-ExcelReader - ERROR: Cause : java.io.EOFException - 00:19:31.799
-ExcelReader - ERROR: Messege : Could not open the specified zip entry source stream - 00:19:31.969
-ExcelReader - ERROR: Cause : java.io.EOFException - 00:19:31.969
-ExcelReader - ERROR: Messege : Could not open the specified zip entry source stream - 00:19:32.123
-ExcelReader - ERROR: Cause : java.io.EOFException - 00:19:32.123
-ExcelReader - ERROR: Messege : Could not open the specified zip entry source stream - 00:19:32.341
-ExcelReader - ERROR: Cause : java.io.EOFException - 00:19:32.341
-ExcelReader - ERROR: Messege : Could not open the specified zip entry source stream - 00:19:32.572
-ExcelReader - ERROR: Cause : java.io.EOFException - 00:19:32.572
-ExcelReader - ERROR: Messege : Could not open the specified zip entry source stream - 00:19:32.769
-ExcelReader - ERROR: Cause : java.io.EOFException - 00:19:32.769
-ExcelReader - ERROR: Messege : Could not open the specified zip entry source stream - 00:19:32.922
-ExcelReader - ERROR: Cause : java.io.EOFException - 00:19:32.922
-ExcelReader - ERROR: Messege : Could not open the specified zip entry source stream - 00:19:33.116
-ExcelReader - ERROR: Cause : java.io.EOFException - 00:19:33.116
-ExcelReader - ERROR: Messege : Could not open the specified zip entry source stream - 00:19:33.393
-ExcelReader - ERROR: Cause : java.io.EOFException - 00:19:33.393
-ExcelReader - ERROR: Messege : Could not open the specified zip entry source stream - 00:19:33.587
-ExcelReader - ERROR: Cause : java.io.EOFException - 00:19:33.587
-ExcelReader - ERROR: Messege : Could not open the specified zip entry source stream - 00:19:33.822
-ExcelReader - ERROR: Cause : java.io.EOFException - 00:19:33.822
-ExcelReader - ERROR: Messege : Could not open the specified zip entry source stream - 00:19:33.967
-ExcelReader - ERROR: Cause : java.io.EOFException - 00:19:33.967
-ExcelReader - ERROR: Messege : Could not open the specified zip entry source stream - 00:19:34.184
-ExcelReader - ERROR: Cause : java.io.EOFException - 00:19:34.184
-ExcelReader - ERROR: Messege : Could not open the specified zip entry source stream - 00:19:34.426
-ExcelReader - ERROR: Cause : java.io.EOFException - 00:19:34.426
-ExcelReader - ERROR: Messege : Could not open the specified zip entry source stream - 00:19:34.599
-ExcelReader - ERROR: Cause : java.io.EOFException - 00:19:34.599
-ExcelReader - ERROR: Messege : Could not open the specified zip entry source stream - 00:19:34.778
-ExcelReader - ERROR: Cause : java.io.EOFException - 00:19:34.778
-ExcelReader - ERROR: Messege : Could not open the specified zip entry source stream - 00:19:35.003
-ExcelReader - ERROR: Cause : java.io.EOFException - 00:19:35.003
-ExcelReader - ERROR: Messege : Could not open the specified zip entry source stream - 00:19:35.188
-ExcelReader - ERROR: Cause : java.io.EOFException - 00:19:35.188
-ExcelReader - ERROR: Messege : Could not open the specified zip entry source stream - 00:19:35.370
-ExcelReader - ERROR: Cause : java.io.EOFException - 00:19:35.370
-SecondTest - INFO: Test Close - 00:19:35.474
-SecondTest - INFO: Browser Closed - 00:19:36.143
-PropertiesFile - INFO: Default browser is :chrome - 00:27:49.237
-TestBase - INFO: Test Started with : chrome browser - 00:27:49.239
-PropertiesFile - INFO: Default url is :https://www.trendyol.com/Butik/Liste/Erkek - 00:27:52.699
-TestBase - INFO: Browser Launched - 00:28:08.934
-ExcelReader - ERROR: Messege : The supplied file was empty (zero bytes long) - 00:28:11.350
-ExcelReader - ERROR: Cause : null - 00:28:11.350
-ExcelReader - ERROR: Messege : Fail to save: an error occurs while saving the package : The part /docProps/app.xml failed to be saved in the stream with marshaller org.apache.poi.openxml4j.opc.internal.marshallers.DefaultMarshaller@2cd2c8fe - 00:28:11.409
-ExcelReader - ERROR: Cause : org.apache.poi.openxml4j.exceptions.OpenXML4JException: The part /docProps/app.xml failed to be saved in the stream with marshaller org.apache.poi.openxml4j.opc.internal.marshallers.DefaultMarshaller@2cd2c8fe - 00:28:11.409
-ExcelReader - ERROR: Messege : Could not open the specified zip entry source stream - 00:28:11.706
-ExcelReader - ERROR: Cause : java.io.EOFException - 00:28:11.706
-ExcelReader - ERROR: Messege : Could not open the specified zip entry source stream - 00:28:11.849
-ExcelReader - ERROR: Cause : java.io.EOFException - 00:28:11.849
-ExcelReader - ERROR: Messege : Could not open the specified zip entry source stream - 00:28:12.072
-ExcelReader - ERROR: Cause : java.io.EOFException - 00:28:12.073
-ExcelReader - ERROR: Messege : Could not open the specified zip entry source stream - 00:28:12.265
-ExcelReader - ERROR: Cause : java.io.EOFException - 00:28:12.265
-ExcelReader - ERROR: Messege : Could not open the specified zip entry source stream - 00:28:12.452
-ExcelReader - ERROR: Cause : java.io.EOFException - 00:28:12.452
-ExcelReader - ERROR: Messege : Could not open the specified zip entry source stream - 00:28:12.634
-ExcelReader - ERROR: Cause : java.io.EOFException - 00:28:12.634
-ExcelReader - ERROR: Messege : Could not open the specified zip entry source stream - 00:28:12.821
-ExcelReader - ERROR: Cause : java.io.EOFException - 00:28:12.821
-ExcelReader - ERROR: Messege : Could not open the specified zip entry source stream - 00:28:12.991
-ExcelReader - ERROR: Cause : java.io.EOFException - 00:28:12.991
-ExcelReader - ERROR: Messege : Could not open the specified zip entry source stream - 00:28:13.208
-ExcelReader - ERROR: Cause : java.io.EOFException - 00:28:13.208
-ExcelReader - ERROR: Messege : Could not open the specified zip entry source stream - 00:28:13.347
-ExcelReader - ERROR: Cause : java.io.EOFException - 00:28:13.348
-ExcelReader - ERROR: Messege : Could not open the specified zip entry source stream - 00:28:13.499
-ExcelReader - ERROR: Cause : java.io.EOFException - 00:28:13.499
-ExcelReader - ERROR: Messege : Could not open the specified zip entry source stream - 00:28:13.914
-ExcelReader - ERROR: Cause : java.io.EOFException - 00:28:13.915
-ExcelReader - ERROR: Messege : Could not open the specified zip entry source stream - 00:28:14.123
-ExcelReader - ERROR: Cause : java.io.EOFException - 00:28:14.123
-ExcelReader - ERROR: Messege : Could not open the specified zip entry source stream - 00:28:14.406
-ExcelReader - ERROR: Cause : java.io.EOFException - 00:28:14.406
-ExcelReader - ERROR: Messege : Could not open the specified zip entry source stream - 00:28:14.558
-ExcelReader - ERROR: Cause : java.io.EOFException - 00:28:14.558
-ExcelReader - ERROR: Messege : Could not open the specified zip entry source stream - 00:28:14.755
-ExcelReader - ERROR: Cause : java.io.EOFException - 00:28:14.756
-ExcelReader - ERROR: Messege : Could not open the specified zip entry source stream - 00:28:14.949
-ExcelReader - ERROR: Cause : java.io.EOFException - 00:28:14.949
-ExcelReader - ERROR: Messege : Could not open the specified zip entry source stream - 00:28:15.145
-ExcelReader - ERROR: Cause : java.io.EOFException - 00:28:15.145
-ExcelReader - ERROR: Messege : Could not open the specified zip entry source stream - 00:28:15.351
-ExcelReader - ERROR: Cause : java.io.EOFException - 00:28:15.351
-ExcelReader - ERROR: Messege : Could not open the specified zip entry source stream - 00:28:15.357
-ExcelReader - ERROR: Cause : java.io.EOFException - 00:28:15.357
-SecondTest - INFO: Test Close - 00:28:15.463
-SecondTest - INFO: Browser Closed - 00:28:16.122
-PropertiesFile - INFO: Default browser is :chrome - 00:29:42.221
-TestBase - INFO: Test Started with : chrome browser - 00:29:42.222
-PropertiesFile - INFO: Default url is :https://www.trendyol.com/Butik/Liste/Erkek - 00:29:45.395
-TestBase - INFO: Browser Launched - 00:29:49.362
-ExcelReader - ERROR: Messege : Could not open the specified zip entry source stream - 00:29:52.247
-ExcelReader - ERROR: Cause : java.io.EOFException - 00:29:52.247
-ExcelReader - ERROR: Messege : Could not open the specified zip entry source stream - 00:29:52.689
-ExcelReader - ERROR: Cause : java.io.EOFException - 00:29:52.689
-ExcelReader - ERROR: Messege : Could not open the specified zip entry source stream - 00:29:52.925
-ExcelReader - ERROR: Cause : java.io.EOFException - 00:29:52.925
-ExcelReader - ERROR: Messege : Could not open the specified zip entry source stream - 00:29:53.274
-ExcelReader - ERROR: Cause : java.io.EOFException - 00:29:53.274
-ExcelReader - ERROR: Messege : Could not open the specified zip entry source stream - 00:29:53.502
-ExcelReader - ERROR: Cause : java.io.EOFException - 00:29:53.502
-ExcelReader - ERROR: Messege : Could not open the specified zip entry source stream - 00:29:53.798
-ExcelReader - ERROR: Cause : java.io.EOFException - 00:29:53.798
-ExcelReader - ERROR: Messege : Could not open the specified zip entry source stream - 00:29:54.266
-ExcelReader - ERROR: Cause : java.io.EOFException - 00:29:54.267
-ExcelReader - ERROR: Messege : Could not open the specified zip entry source stream - 00:29:54.504
-ExcelReader - ERROR: Cause : java.io.EOFException - 00:29:54.504
-ExcelReader - ERROR: Messege : Could not open the specified zip entry source stream - 00:29:54.772
-ExcelReader - ERROR: Cause : java.io.EOFException - 00:29:54.772
-ExcelReader - ERROR: Messege : Could not open the specified zip entry source stream - 00:29:54.989
-ExcelReader - ERROR: Cause : java.io.EOFException - 00:29:54.989
-ExcelReader - ERROR: Messege : Could not open the specified zip entry source stream - 00:29:55.211
-ExcelReader - ERROR: Cause : java.io.EOFException - 00:29:55.211
-ExcelReader - ERROR: Messege : Could not open the specified zip entry source stream - 00:29:55.494
-ExcelReader - ERROR: Cause : java.io.EOFException - 00:29:55.494
-ExcelReader - ERROR: Messege : Could not open the specified zip entry source stream - 00:29:55.753
-ExcelReader - ERROR: Cause : java.io.EOFException - 00:29:55.753
-ExcelReader - ERROR: Messege : Could not open the specified zip entry source stream - 00:29:56.069
-ExcelReader - ERROR: Cause : java.io.EOFException - 00:29:56.069
-ExcelReader - ERROR: Messege : Could not open the specified zip entry source stream - 00:29:56.231
-ExcelReader - ERROR: Cause : java.io.EOFException - 00:29:56.231
-SecondTest - INFO: Test Close - 00:30:00.914
-SecondTest - INFO: Browser Closed - 00:30:01.476
-PropertiesFile - INFO: Default browser is :chrome - 00:30:16.871
-TestBase - INFO: Test Started with : chrome browser - 00:30:16.873
-PropertiesFile - INFO: Default url is :https://www.trendyol.com/Butik/Liste/Erkek - 00:30:20.550
-TestBase - INFO: Browser Launched - 00:30:26.109
-ExcelReader - ERROR: Messege : Could not open the specified zip entry source stream - 00:30:28.216
-ExcelReader - ERROR: Cause : java.io.EOFException - 00:30:28.216
-SecondTest - INFO: Test Close - 00:30:28.317
-SecondTest - INFO: Browser Closed - 00:30:29.269
-PropertiesFile - INFO: Default browser is :chrome - 00:32:44.546
-TestBase - INFO: Test Started with : chrome browser - 00:32:44.548
-PropertiesFile - INFO: Default url is :https://www.trendyol.com/Butik/Liste/Erkek - 00:32:47.544
-TestBase - INFO: Browser Launched - 00:32:50.475
-ExcelReader - ERROR: Messege : The supplied file was empty (zero bytes long) - 00:32:52.727
-ExcelReader - ERROR: Cause : null - 00:32:52.728
-ExcelReader - ERROR: Messege : Fail to save: an error occurs while saving the package : The part /docProps/app.xml failed to be saved in the stream with marshaller org.apache.poi.openxml4j.opc.internal.marshallers.DefaultMarshaller@5b444398 - 00:32:52.785
-ExcelReader - ERROR: Cause : org.apache.poi.openxml4j.exceptions.OpenXML4JException: The part /docProps/app.xml failed to be saved in the stream with marshaller org.apache.poi.openxml4j.opc.internal.marshallers.DefaultMarshaller@5b444398 - 00:32:52.785
-SecondTest - INFO: Test Close - 00:32:52.884
-SecondTest - INFO: Browser Closed - 00:32:53.575
-PropertiesFile - INFO: Default browser is :chrome - 00:43:58.809
-TestBase - INFO: Test Started with : chrome browser - 00:43:58.811
-PropertiesFile - INFO: Default url is :https://www.trendyol.com/Butik/Liste/Erkek - 00:44:02.043
-TestBase - INFO: Browser Launched - 00:44:06.315
-ExcelReader - ERROR: Messege : Could not open the specified zip entry source stream - 00:44:08.156
-ExcelReader - ERROR: Cause : java.io.EOFException - 00:44:08.156
-SecondTest - INFO: Test Close - 00:44:08.271
-SecondTest - INFO: Browser Closed - 00:44:08.940
-PropertiesFile - INFO: Default browser is :chrome - 00:46:15.917
-TestBase - INFO: Test Started with : chrome browser - 00:46:15.920
-PropertiesFile - INFO: Default url is :https://www.trendyol.com/Butik/Liste/Erkek - 00:46:18.866
-TestBase - INFO: Browser Launched - 00:46:27.403
-ExcelReader - ERROR: Messege : null - 00:46:29.341
-ExcelReader - ERROR: Cause : null - 00:46:29.341
-SecondTest - INFO: Test Close - 00:46:29.446
-SecondTest - INFO: Browser Closed - 00:46:30.117
+PropertiesFile - INFO: Default browser is :chrome - 14:01:00.974
+TestBase - INFO: Test Started with : chrome browser - 14:01:00.975
+PropertiesFile - INFO: Default url is :https://www.trendyol.com/Butik/Liste/Erkek - 14:01:06.970
+TestBase - INFO: Browser Launched - 14:01:08.882
+FirstTest - INFO: Test Close - 14:01:14.504
+FirstTest - INFO: Browser Closed - 14:01:14.612
+PropertiesFile - INFO: Default browser is :chrome - 14:43:08.807
+TestBase - INFO: Test Started with : chrome browser - 14:43:08.808
+PropertiesFile - INFO: Default url is :https://www.trendyol.com/Butik/Liste/Erkek - 14:43:10.882
+TestBase - INFO: Browser Launched - 14:43:14.424
+FirstTest - INFO: Test Close - 14:43:15.486
+FirstTest - INFO: Browser Closed - 14:43:15.583
+PropertiesFile - INFO: Default browser is :chrome - 14:50:23.295
+TestBase - INFO: Test Started with : chrome browser - 14:50:23.296
+PropertiesFile - INFO: Default url is :https://www.trendyol.com/Butik/Liste/Erkek - 14:50:25.393
+TestBase - INFO: Browser Launched - 14:50:29.897
+FirstTest - INFO: Test Close - 14:50:32.726
+FirstTest - INFO: Browser Closed - 14:50:32.827
+PropertiesFile - INFO: Default browser is :chrome - 15:01:57.308
+TestBase - INFO: Test Started with : chrome browser - 15:01:57.310
+PropertiesFile - INFO: Default url is :https://www.trendyol.com/Butik/Liste/Erkek - 15:01:59.245
+TestBase - INFO: Browser Launched - 15:02:02.929
+FirstTest - INFO: Test Close - 15:02:05.207
+FirstTest - INFO: Browser Closed - 15:02:05.313
+PropertiesFile - INFO: Default browser is :chrome - 15:02:57.244
+TestBase - INFO: Test Started with : chrome browser - 15:02:57.245
+PropertiesFile - INFO: Default url is :https://www.trendyol.com/Butik/Liste/Erkek - 15:02:59.216
+TestBase - INFO: Browser Launched - 15:03:04.474
+FirstTest - INFO: Test Close - 15:03:05.942
+FirstTest - INFO: Browser Closed - 15:03:06.048
+PropertiesFile - INFO: Default browser is :chrome - 15:03:28.875
+TestBase - INFO: Test Started with : chrome browser - 15:03:28.876
+PropertiesFile - INFO: Default url is :https://www.trendyol.com/Butik/Liste/Erkek - 15:03:30.857
+TestBase - INFO: Browser Launched - 15:03:45.319
+FirstTest - INFO: Test Close - 15:03:51.310
+FirstTest - INFO: Browser Closed - 15:03:51.423
+PropertiesFile - INFO: Default browser is :chrome - 15:05:19.078
+TestBase - INFO: Test Started with : chrome browser - 15:05:19.079
+PropertiesFile - INFO: Default url is :https://www.trendyol.com/Butik/Liste/Erkek - 15:05:20.874
+TestBase - INFO: Browser Launched - 15:05:28.147
+FirstTest - INFO: Test Close - 15:05:28.954
+FirstTest - INFO: Browser Closed - 15:05:29.060
+PropertiesFile - INFO: Default browser is :chrome - 15:07:04.636
+TestBase - INFO: Test Started with : chrome browser - 15:07:04.637
+PropertiesFile - INFO: Default url is :https://www.trendyol.com/Butik/Liste/Erkek - 15:07:06.494
+TestBase - INFO: Browser Launched - 15:07:10.039
+FirstTest - INFO: Test Close - 15:07:11.141
+FirstTest - INFO: Browser Closed - 15:07:11.244
+PropertiesFile - INFO: Default browser is :chrome - 15:08:05.098
+TestBase - INFO: Test Started with : chrome browser - 15:08:05.099
+PropertiesFile - INFO: Default url is :https://www.trendyol.com/Butik/Liste/Erkek - 15:08:06.869
+TestBase - INFO: Browser Launched - 15:08:23.629
+FirstTest - INFO: Test Close - 15:08:24.587
+FirstTest - INFO: Browser Closed - 15:08:24.699
+PropertiesFile - INFO: Default browser is :chrome - 15:08:56.143
+TestBase - INFO: Test Started with : chrome browser - 15:08:56.145
+PropertiesFile - INFO: Default url is :https://www.trendyol.com/Butik/Liste/Erkek - 15:08:58.101
+TestBase - INFO: Browser Launched - 15:09:06.849
+FirstTest - INFO: Test Close - 15:09:07.813
+FirstTest - INFO: Browser Closed - 15:09:07.921
+PropertiesFile - INFO: Default browser is :chrome - 15:10:39.432
+TestBase - INFO: Test Started with : chrome browser - 15:10:39.433
+PropertiesFile - INFO: Default url is :https://www.trendyol.com/Butik/Liste/Erkek - 15:10:41.273
+TestBase - INFO: Browser Launched - 15:10:52.559
+FirstTest - INFO: Test Close - 15:10:53.722
+FirstTest - INFO: Browser Closed - 15:10:53.839
+PropertiesFile - INFO: Default browser is :chrome - 16:35:16.614
+TestBase - INFO: Test Started with : chrome browser - 16:35:16.615
+PropertiesFile - INFO: Default url is :https://www.trendyol.com/Butik/Liste/Erkek - 16:35:18.441
+TestBase - INFO: Browser Launched - 16:35:26.385
+FirstTest - INFO: Test Close - 16:35:27.663
+FirstTest - INFO: Browser Closed - 16:35:27.769
+PropertiesFile - INFO: Default browser is :chrome - 16:39:26.493
+TestBase - INFO: Test Started with : chrome browser - 16:39:26.494
+PropertiesFile - INFO: Default url is :https://www.trendyol.com/Butik/Liste/Erkek - 16:39:28.268
+TestBase - INFO: Browser Launched - 16:39:31.930
+FirstTest - INFO: Test Close - 16:39:33.338
+FirstTest - INFO: Browser Closed - 16:39:33.443
+PropertiesFile - INFO: Default browser is :chrome - 16:39:48.497
+TestBase - INFO: Test Started with : chrome browser - 16:39:48.498
+PropertiesFile - INFO: Default url is :https://www.trendyol.com/Butik/Liste/Erkek - 16:39:50.541
+TestBase - INFO: Browser Launched - 16:39:53.602
+FirstTest - INFO: Test Close - 16:39:54.702
+FirstTest - INFO: Browser Closed - 16:39:54.807
+PropertiesFile - INFO: Default browser is :chrome - 16:41:31.839
+TestBase - INFO: Test Started with : chrome browser - 16:41:31.841
+PropertiesFile - INFO: Default url is :https://www.trendyol.com/Butik/Liste/Erkek - 16:41:33.765
+TestBase - INFO: Browser Launched - 16:41:38.296
+FirstTest - INFO: Test Close - 16:41:39.370
+FirstTest - INFO: Browser Closed - 16:41:39.529
+PropertiesFile - INFO: Default browser is :chrome - 16:43:30.129
+TestBase - INFO: Test Started with : chrome browser - 16:43:30.130
+PropertiesFile - INFO: Default url is :https://www.trendyol.com/Butik/Liste/Erkek - 16:43:32.109
+TestBase - INFO: Browser Launched - 16:43:38.585
+FirstTest - INFO: Test Close - 16:43:39.836
+FirstTest - INFO: Browser Closed - 16:43:39.943
+PropertiesFile - INFO: Default browser is :chrome - 16:44:14.101
+TestBase - INFO: Test Started with : chrome browser - 16:44:14.102
+PropertiesFile - INFO: Default url is :https://www.trendyol.com/Butik/Liste/Erkek - 16:44:16.160
+TestBase - INFO: Browser Launched - 16:44:18.591
+FirstTest - INFO: Test Close - 16:44:19.673
+FirstTest - INFO: Browser Closed - 16:44:19.779
+PropertiesFile - INFO: Default browser is :chrome - 19:10:50.763
+TestBase - INFO: Test Started with : chrome browser - 19:10:50.765
+PropertiesFile - INFO: Default url is :https://www.trendyol.com/Butik/Liste/Erkek - 19:10:52.725
+TestBase - INFO: Browser Launched - 19:10:55.734
+FirstTest - INFO: Test Close - 19:10:57.014
+FirstTest - INFO: Browser Closed - 19:10:57.124
+PropertiesFile - INFO: Default browser is :chrome - 19:11:54.782
+TestBase - INFO: Test Started with : chrome browser - 19:11:54.784
+PropertiesFile - INFO: Default url is :https://www.trendyol.com/Butik/Liste/Erkek - 19:11:56.642
+TestBase - INFO: Browser Launched - 19:11:58.541
+FirstTest - INFO: Test Close - 19:12:00.522
+FirstTest - INFO: Browser Closed - 19:12:00.638
+PropertiesFile - INFO: Default browser is :chrome - 19:13:35.167
+TestBase - INFO: Test Started with : chrome browser - 19:13:35.169
+PropertiesFile - INFO: Default url is :https://www.trendyol.com/Butik/Liste/Erkek - 19:13:37.078
+TestBase - INFO: Browser Launched - 19:13:38.828
+FirstTest - INFO: Test Close - 19:13:40.820
+FirstTest - INFO: Browser Closed - 19:13:40.928
+PropertiesFile - INFO: Default browser is :chrome - 19:14:04.121
+TestBase - INFO: Test Started with : chrome browser - 19:14:04.122
+PropertiesFile - INFO: Default url is :https://www.trendyol.com/Butik/Liste/Erkek - 19:14:06.027
+TestBase - INFO: Browser Launched - 19:14:07.843
+FirstTest - INFO: Test Close - 19:14:08.859
+FirstTest - INFO: Browser Closed - 19:14:08.969
+PropertiesFile - INFO: Default browser is :chrome - 19:31:25.060
+TestBase - INFO: Test Started with : chrome browser - 19:31:25.062
+PropertiesFile - INFO: Default url is :https://www.trendyol.com/Butik/Liste/Erkek - 19:31:26.924
+TestBase - INFO: Browser Launched - 19:31:29.751
+FirstTest - INFO: Test Close - 19:31:30.956
+FirstTest - INFO: Browser Closed - 19:31:31.062
+PropertiesFile - INFO: Default browser is :chrome - 19:33:37.815
+TestBase - INFO: Test Started with : chrome browser - 19:33:37.817
+PropertiesFile - INFO: Default url is :https://www.trendyol.com/Butik/Liste/Erkek - 19:33:39.700
+TestBase - INFO: Browser Launched - 19:33:41.529
+FirstTest - INFO: Test Close - 19:33:43.326
+FirstTest - INFO: Browser Closed - 19:33:43.437
+PropertiesFile - INFO: Default browser is :chrome - 19:38:04.082
+TestBase - INFO: Test Started with : chrome browser - 19:38:04.084
+PropertiesFile - INFO: Default url is :https://www.trendyol.com/Butik/Liste/Erkek - 19:38:06.013
+TestBase - INFO: Browser Launched - 19:38:10.072
+FirstTest - INFO: Test Close - 19:38:11.073
+FirstTest - INFO: Browser Closed - 19:38:11.174
+PropertiesFile - INFO: Default browser is :chrome - 19:38:54.452
+TestBase - INFO: Test Started with : chrome browser - 19:38:54.453
+PropertiesFile - INFO: Default url is :https://www.trendyol.com/Butik/Liste/Erkek - 19:38:56.322
+TestBase - INFO: Browser Launched - 19:38:58.050
+FirstTest - INFO: Test Close - 19:38:58.928
+FirstTest - INFO: Browser Closed - 19:38:59.031
+PropertiesFile - INFO: Default browser is :chrome - 19:39:11.491
+TestBase - INFO: Test Started with : chrome browser - 19:39:11.493
+PropertiesFile - INFO: Default url is :https://www.trendyol.com/Butik/Liste/Erkek - 19:39:13.279
+TestBase - INFO: Browser Launched - 19:39:15.665
+FirstTest - INFO: Test Close - 19:39:16.480
+FirstTest - INFO: Browser Closed - 19:39:16.583
+PropertiesFile - INFO: Default browser is :chrome - 19:40:21.613
+TestBase - INFO: Test Started with : chrome browser - 19:40:21.614
+PropertiesFile - INFO: Default url is :https://www.trendyol.com/Butik/Liste/Erkek - 19:40:23.387
+TestBase - INFO: Browser Launched - 19:40:25.641
+FirstTest - INFO: Test Close - 19:40:27.398
+FirstTest - INFO: Browser Closed - 19:40:27.503
+PropertiesFile - INFO: Default browser is :chrome - 19:43:37.514
+TestBase - INFO: Test Started with : chrome browser - 19:43:37.516
+PropertiesFile - INFO: Default url is :https://www.trendyol.com/Butik/Liste/Erkek - 19:43:39.334
+TestBase - INFO: Browser Launched - 19:43:42.256
+FirstTest - INFO: Test Close - 19:43:43.207
+FirstTest - INFO: Browser Closed - 19:43:43.307
+PropertiesFile - INFO: Default browser is :chrome - 19:44:17.224
+TestBase - INFO: Test Started with : chrome browser - 19:44:17.225
+PropertiesFile - INFO: Default url is :https://www.trendyol.com/Butik/Liste/Erkek - 19:44:19.075
+TestBase - INFO: Browser Launched - 19:44:21.085
+FirstTest - INFO: Test Close - 19:44:21.948
+FirstTest - INFO: Browser Closed - 19:44:22.050
+PropertiesFile - INFO: Default browser is :chrome - 19:45:40.895
+TestBase - INFO: Test Started with : chrome browser - 19:45:40.896
+PropertiesFile - INFO: Default url is :https://www.trendyol.com/Butik/Liste/Erkek - 19:45:42.744
+TestBase - INFO: Browser Launched - 19:45:44.486
+FirstTest - INFO: Test Close - 19:45:46.030
+FirstTest - INFO: Browser Closed - 19:45:46.133
+PropertiesFile - INFO: Default browser is :chrome - 19:46:19.045
+TestBase - INFO: Test Started with : chrome browser - 19:46:19.047
+PropertiesFile - INFO: Default url is :https://www.trendyol.com/Butik/Liste/Erkek - 19:46:20.962
+TestBase - INFO: Browser Launched - 19:46:25.254
+FirstTest - INFO: Test Close - 19:46:26.037
+FirstTest - INFO: Browser Closed - 19:46:26.147
+PropertiesFile - INFO: Default browser is :chrome - 19:46:49.400
+TestBase - INFO: Test Started with : chrome browser - 19:46:49.401
+PropertiesFile - INFO: Default url is :https://www.trendyol.com/Butik/Liste/Erkek - 19:46:51.233
+TestBase - INFO: Browser Launched - 19:46:53.270
+FirstTest - INFO: Test Close - 19:46:54.068
+FirstTest - INFO: Browser Closed - 19:46:54.177
+PropertiesFile - INFO: Default browser is :chrome - 19:47:40.428
+TestBase - INFO: Test Started with : chrome browser - 19:47:40.429
+PropertiesFile - INFO: Default url is :https://www.trendyol.com/Butik/Liste/Erkek - 19:47:42.248
+TestBase - INFO: Browser Launched - 19:47:46.739
+FirstTest - INFO: Test Close - 19:47:47.580
+FirstTest - INFO: Browser Closed - 19:47:47.682
+PropertiesFile - INFO: Default browser is :chrome - 19:49:16.567
+TestBase - INFO: Test Started with : chrome browser - 19:49:16.568
+PropertiesFile - INFO: Default url is :https://www.trendyol.com/Butik/Liste/Erkek - 19:49:18.487
+TestBase - INFO: Browser Launched - 19:49:20.248
+FirstTest - INFO: Test Close - 19:49:21.106
+FirstTest - INFO: Browser Closed - 19:49:21.211
+PropertiesFile - INFO: Default browser is :chrome - 20:00:14.413
+TestBase - INFO: Test Started with : chrome browser - 20:00:14.415
+PropertiesFile - INFO: Default url is :https://www.trendyol.com/Butik/Liste/Erkek - 20:00:16.211
+TestBase - INFO: Browser Launched - 20:00:22.831
+FirstTest - INFO: Test Close - 20:00:23.926
+FirstTest - INFO: Browser Closed - 20:00:24.034
+PropertiesFile - INFO: Default browser is :chrome - 20:01:07.853
+TestBase - INFO: Test Started with : chrome browser - 20:01:07.854
+PropertiesFile - INFO: Default url is :https://www.trendyol.com/Butik/Liste/Erkek - 20:01:09.752
+TestBase - INFO: Browser Launched - 20:01:11.581
+FirstTest - INFO: Test Close - 20:01:12.683
+FirstTest - INFO: Browser Closed - 20:01:12.792
+PropertiesFile - INFO: Default browser is :chrome - 20:04:07.547
+TestBase - INFO: Test Started with : chrome browser - 20:04:07.549
+PropertiesFile - INFO: Default url is :https://www.trendyol.com/Butik/Liste/Erkek - 20:04:09.493
+TestBase - INFO: Browser Launched - 20:04:11.243
+FirstTest - INFO: Test Close - 20:04:12.327
+FirstTest - INFO: Browser Closed - 20:04:12.436
+PropertiesFile - INFO: Default browser is :chrome - 20:05:49.909
+TestBase - INFO: Test Started with : chrome browser - 20:05:49.911
+PropertiesFile - INFO: Default url is :https://www.trendyol.com/Butik/Liste/Erkek - 20:05:51.711
+TestBase - INFO: Browser Launched - 20:05:53.634
+FirstTest - INFO: Test Close - 20:05:54.570
+FirstTest - INFO: Browser Closed - 20:05:54.724
+PropertiesFile - INFO: Default browser is :chrome - 20:07:17.654
+TestBase - INFO: Test Started with : chrome browser - 20:07:17.656
+PropertiesFile - INFO: Default url is :https://www.trendyol.com/Butik/Liste/Erkek - 20:07:19.554
+TestBase - INFO: Browser Launched - 20:07:21.632
+FirstTest - INFO: Test Close - 20:07:22.496
+FirstTest - INFO: Browser Closed - 20:07:22.611
+PropertiesFile - INFO: Default browser is :chrome - 20:07:55.603
+TestBase - INFO: Test Started with : chrome browser - 20:07:55.605
+PropertiesFile - INFO: Default url is :https://www.trendyol.com/Butik/Liste/Erkek - 20:07:57.452
+TestBase - INFO: Browser Launched - 20:07:59.674
+FirstTest - INFO: Test Close - 20:08:00.764
+FirstTest - INFO: Browser Closed - 20:08:00.867
+PropertiesFile - INFO: Default browser is :chrome - 20:09:06.072
+TestBase - INFO: Test Started with : chrome browser - 20:09:06.074
+PropertiesFile - INFO: Default url is :https://www.trendyol.com/Butik/Liste/Erkek - 20:09:07.923
+TestBase - INFO: Browser Launched - 20:09:10.655
+FirstTest - INFO: Test Close - 20:09:11.539
+FirstTest - INFO: Browser Closed - 20:09:11.663
+PropertiesFile - INFO: Default browser is :chrome - 20:15:01.489
+TestBase - INFO: Test Started with : chrome browser - 20:15:01.490
+PropertiesFile - INFO: Default url is :https://www.trendyol.com/Butik/Liste/Erkek - 20:15:03.309
+TestBase - INFO: Browser Launched - 20:15:05.087
+FirstTest - INFO: Test Close - 20:15:06.182
+FirstTest - INFO: Browser Closed - 20:15:06.290
+PropertiesFile - INFO: Default browser is :chrome - 20:21:05.138
+TestBase - INFO: Test Started with : chrome browser - 20:21:05.139
+PropertiesFile - INFO: Default url is :https://www.trendyol.com/Butik/Liste/Erkek - 20:21:07.005
+TestBase - INFO: Browser Launched - 20:21:10.902
+FirstTest - INFO: Test Close - 20:21:11.835
+FirstTest - INFO: Browser Closed - 20:21:11.940
+PropertiesFile - INFO: Default browser is :chrome - 20:27:50.104
+TestBase - INFO: Test Started with : chrome browser - 20:27:50.106
+PropertiesFile - INFO: Default url is :https://www.trendyol.com/Butik/Liste/Erkek - 20:27:51.916
+TestBase - INFO: Browser Launched - 20:27:53.745
+FirstTest - INFO: Test Close - 20:27:54.875
+FirstTest - INFO: Browser Closed - 20:27:54.977
+PropertiesFile - INFO: Default browser is :chrome - 20:30:50.144
+TestBase - INFO: Test Started with : chrome browser - 20:30:50.145
+PropertiesFile - INFO: Default url is :https://www.trendyol.com/Butik/Liste/Erkek - 20:30:51.948
+TestBase - INFO: Browser Launched - 20:30:55.977
+FirstTest - INFO: Test Close - 20:30:57.135
+FirstTest - INFO: Browser Closed - 20:30:57.240
+PropertiesFile - INFO: Default browser is :chrome - 20:34:49.182
+TestBase - INFO: Test Started with : chrome browser - 20:34:49.183
+PropertiesFile - INFO: Default url is :https://www.trendyol.com/Butik/Liste/Erkek - 20:34:51.047
+TestBase - INFO: Browser Launched - 20:34:52.991
+FirstTest - INFO: Test Close - 20:34:54.162
+FirstTest - INFO: Browser Closed - 20:34:54.319
+PropertiesFile - INFO: Default browser is :chrome - 20:39:33.890
+TestBase - INFO: Test Started with : chrome browser - 20:39:33.891
+PropertiesFile - INFO: Default url is :https://www.trendyol.com/Butik/Liste/Erkek - 20:39:35.846
+TestBase - INFO: Browser Launched - 20:39:39.585
+FirstTest - INFO: Test Close - 20:39:40.826
+FirstTest - INFO: Browser Closed - 20:39:40.935

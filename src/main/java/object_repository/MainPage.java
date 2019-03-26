@@ -1,6 +1,7 @@
 package object_repository;
 
 import excelreader.ExcelReader;
+import excelreader.ExcelWriter;
 import httpclient.LinkStatus;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.WebElement;
@@ -21,11 +22,7 @@ public class MainPage {
     @FindBy(className = "butik-img-size")
     List<WebElement> boutiques;
 
-   public void writeResponses(){
-       for(WebElement boutique:boutiques){
-           System.out.print(linkStatus.makerequest(boutique.getAttribute("href")));
-           System.out.println(boutique.getAttribute("href"));
-       }
-   }
+    ExcelWriter excelWriter = new ExcelWriter();
+
 
 }

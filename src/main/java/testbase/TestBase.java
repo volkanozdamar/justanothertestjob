@@ -54,7 +54,7 @@ public class TestBase {
         String browserProp = PropertiesFile.getProperties("browser");
         Logger.info("Test Started with : "+browserProp+" browser");
         if(browserProp.equalsIgnoreCase("chrome")){
-            System.setProperty("webdriver.chrome.driver", System.getProperty("user.dir") + "/src/resources/windows/chromedriver.exe");
+            System.setProperty("webdriver.chrome.driver", System.getProperty("user.dir") + "/src/resources/mac/chromedriver");
             ChromeOptions options = new ChromeOptions();
             options.addArguments("--disable-extensions");
             driver = new ChromeDriver(options);
