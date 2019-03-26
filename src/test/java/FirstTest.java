@@ -22,8 +22,10 @@ public class SecondTest extends TestBase{
     }
     @Test(description = "Firefox Test")
     public void myTest() throws IOException {
-        ExcelReader.setRowData("myshit",1,1,"Volkan");
-
+        ExcelReader.setExcelPath("data.xlsx");
+        System.out.println(ExcelReader.getRowData("Sheet1",0,0));
+        ExcelReader.setRowData("Sheet1",0,0,"Change2");
+        System.out.println(ExcelReader.getRowData("Sheet1",0,0));
     }
 
     @AfterTest
