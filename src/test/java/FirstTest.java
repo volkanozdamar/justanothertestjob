@@ -1,6 +1,6 @@
 
-import excelreader.ExcelReader;
-import excelreader.ExcelWriter;
+import csvreader.CsvReader;
+import csvreader.CsvWriter;
 import object_repository.MainPage;
 import org.openqa.selenium.WebDriver;
 import testbase.TestBase;
@@ -9,9 +9,6 @@ import org.testng.annotations.AfterTest;
 import org.testng.annotations.BeforeTest;
 import org.testng.annotations.Test;
 import org.tinylog.Logger;
-
-import java.io.IOException;
-import java.util.List;
 
 public class FirstTest extends TestBase{
     @VisibleForTesting
@@ -22,10 +19,11 @@ public class FirstTest extends TestBase{
         driver.manage().window().fullscreen();
     }
     @Test(description = "Firefox Test")
-    public void myTest() throws IOException {
-        MainPage mainPage = new MainPage(driver);
-        ExcelWriter.write("Book1.xlsx","Sheet1","a",0);
-        ExcelWriter.write("Book1.xlsx","Sheet1","b",1);
+    public void myTest() throws Exception {
+        CsvReader csvReader = new CsvReader();
+        csvReader.readCSVFile();
+        CsvWriter csvWriter = new CsvWriter();
+        csvWriter.CsvWrite();
     }
 
     @AfterTest
@@ -34,7 +32,6 @@ public class FirstTest extends TestBase{
         driver.quit();
         Logger.info("Browser Closed");
     }
-
 
 
 }

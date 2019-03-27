@@ -280,3 +280,261 @@ PropertiesFile - INFO: Default url is :https://www.trendyol.com/Butik/Liste/Erke
 TestBase - INFO: Browser Launched - 20:39:39.585
 FirstTest - INFO: Test Close - 20:39:40.826
 FirstTest - INFO: Browser Closed - 20:39:40.935
+PropertiesFile - INFO: Default browser is :chrome - 20:47:31.847
+TestBase - INFO: Test Started with : chrome browser - 20:47:31.848
+PropertiesFile - INFO: Default url is :https://www.trendyol.com/Butik/Liste/Erkek - 20:47:33.694
+TestBase - INFO: Browser Launched - 20:47:35.548
+FirstTest - INFO: Test Close - 20:47:36.806
+FirstTest - INFO: Browser Closed - 20:47:36.912
+PropertiesFile - INFO: Default browser is :chrome - 20:48:27.662
+TestBase - INFO: Test Started with : chrome browser - 20:48:27.664
+PropertiesFile - INFO: Default url is :https://www.trendyol.com/Butik/Liste/Erkek - 20:48:29.728
+TestBase - INFO: Browser Launched - 20:48:33.249
+FirstTest - INFO: Test Close - 20:48:35.034
+FirstTest - INFO: Browser Closed - 20:48:35.135
+PropertiesFile - INFO: Default browser is :chrome - 20:50:12.037
+TestBase - INFO: Test Started with : chrome browser - 20:50:12.039
+PropertiesFile - INFO: Default url is :https://www.trendyol.com/Butik/Liste/Erkek - 20:50:13.959
+TestBase - INFO: Browser Launched - 20:50:15.781
+FirstTest - INFO: Test Close - 20:50:18.623
+FirstTest - INFO: Browser Closed - 20:50:18.728
+PropertiesFile - INFO: Default browser is :chrome - 21:01:31.699
+TestBase - INFO: Test Started with : chrome browser - 21:01:31.700
+PropertiesFile - INFO: Default url is :https://www.trendyol.com/Butik/Liste/Erkek - 21:01:33.584
+TestBase - INFO: Browser Launched - 21:01:37.040
+FirstTest - INFO: Test Close - 21:01:39.046
+FirstTest - INFO: Browser Closed - 21:01:39.150
+PropertiesFile - INFO: Default browser is :chrome - 22:48:24.943
+TestBase - INFO: Test Started with : chrome browser - 22:48:24.944
+PropertiesFile - INFO: Default url is :https://www.trendyol.com/Butik/Liste/Erkek - 22:48:27.870
+TestBase - INFO: Browser Launched - 22:48:30.430
+FirstTest - INFO: Test Close - 22:48:32.176
+FirstTest - INFO: Browser Closed - 22:48:32.280
+PropertiesFile - INFO: Default browser is :chrome - 22:50:47.161
+TestBase - INFO: Test Started with : chrome browser - 22:50:47.163
+PropertiesFile - INFO: Default url is :https://www.trendyol.com/Butik/Liste/Erkek - 22:50:49.097
+TestBase - INFO: Browser Launched - 22:50:50.800
+FirstTest - INFO: Test Close - 22:50:51.482
+FirstTest - INFO: Browser Closed - 22:50:51.583
+PropertiesFile - INFO: Default browser is :chrome - 22:51:50.248
+TestBase - INFO: Test Started with : chrome browser - 22:51:50.249
+PropertiesFile - INFO: Default url is :https://www.trendyol.com/Butik/Liste/Erkek - 22:51:51.954
+TestBase - INFO: Browser Launched - 22:51:53.837
+FirstTest - INFO: Test Close - 22:51:55.438
+FirstTest - INFO: Browser Closed - 22:51:55.543
+PropertiesFile - INFO: Default browser is :chrome - 22:53:25.828
+TestBase - INFO: Test Started with : chrome browser - 22:53:25.829
+PropertiesFile - INFO: Default url is :https://www.trendyol.com/Butik/Liste/Erkek - 22:53:27.547
+TestBase - INFO: Browser Launched - 22:53:29.439
+FirstTest - INFO: Test Close - 22:53:31.161
+FirstTest - INFO: Browser Closed - 22:53:31.266
+PropertiesFile - INFO: Default browser is :chrome - 22:54:36.355
+TestBase - INFO: Test Started with : chrome browser - 22:54:36.356
+PropertiesFile - INFO: Default url is :https://www.trendyol.com/Butik/Liste/Erkek - 22:54:38.172
+TestBase - INFO: Browser Launched - 22:54:39.449
+FirstTest - INFO: Test Close - 22:54:39.963
+FirstTest - INFO: Browser Closed - 22:54:40.086
+PropertiesFile - INFO: Default browser is :chrome - 22:55:26.178
+TestBase - INFO: Test Started with : chrome browser - 22:55:26.179
+PropertiesFile - INFO: Default url is :https://www.trendyol.com/Butik/Liste/Erkek - 22:55:27.962
+TestBase - INFO: Browser Launched - 22:55:30.592
+FirstTest - INFO: Test Close - 22:55:32.163
+FirstTest - INFO: Browser Closed - 22:55:32.268
+PropertiesFile - INFO: Default browser is :chrome - 22:58:28.554
+TestBase - INFO: Test Started with : chrome browser - 22:58:28.555
+PropertiesFile - INFO: Default url is :https://www.trendyol.com/Butik/Liste/Erkek - 22:58:30.361
+TestBase - INFO: Browser Launched - 22:58:32.922
+FirstTest - INFO: Test Close - 22:58:34.188
+FirstTest - INFO: Browser Closed - 22:58:34.291
+PropertiesFile - INFO: Default browser is :chrome - 23:06:52.583
+TestBase - INFO: Test Started with : chrome browser - 23:06:52.584
+PropertiesFile - INFO: Default url is :https://www.trendyol.com/Butik/Liste/Erkek - 23:06:58.455
+TestBase - INFO: Browser Launched - 23:07:02.940
+FirstTest - INFO: Test Close - 23:07:03.733
+FirstTest - INFO: Browser Closed - 23:07:03.887
+PropertiesFile - INFO: Default browser is :chrome - 23:08:09.526
+TestBase - INFO: Test Started with : chrome browser - 23:08:09.527
+PropertiesFile - INFO: Default url is :https://www.trendyol.com/Butik/Liste/Erkek - 23:08:11.240
+TestBase - INFO: Browser Launched - 23:08:12.962
+FirstTest - INFO: Test Close - 23:08:14.728
+FirstTest - INFO: Browser Closed - 23:08:14.836
+PropertiesFile - INFO: Default browser is :chrome - 23:12:21.562
+TestBase - INFO: Test Started with : chrome browser - 23:12:21.563
+PropertiesFile - INFO: Default url is :https://www.trendyol.com/Butik/Liste/Erkek - 23:12:23.378
+TestBase - INFO: Browser Launched - 23:12:24.888
+FirstTest - INFO: Test Close - 23:12:26.888
+FirstTest - INFO: Browser Closed - 23:12:26.994
+PropertiesFile - INFO: Default browser is :chrome - 23:14:27.754
+TestBase - INFO: Test Started with : chrome browser - 23:14:27.756
+PropertiesFile - INFO: Default url is :https://www.trendyol.com/Butik/Liste/Erkek - 23:14:29.733
+TestBase - INFO: Browser Launched - 23:14:30.867
+FirstTest - INFO: Test Close - 23:14:32.631
+FirstTest - INFO: Browser Closed - 23:14:32.736
+PropertiesFile - INFO: Default browser is :chrome - 23:15:43.133
+TestBase - INFO: Test Started with : chrome browser - 23:15:43.134
+PropertiesFile - INFO: Default url is :https://www.trendyol.com/Butik/Liste/Erkek - 23:15:45.055
+TestBase - INFO: Browser Launched - 23:15:46.942
+FirstTest - INFO: Test Close - 23:15:47.595
+FirstTest - INFO: Browser Closed - 23:15:47.767
+PropertiesFile - INFO: Default browser is :chrome - 23:36:39.536
+TestBase - INFO: Test Started with : chrome browser - 23:36:39.537
+PropertiesFile - INFO: Default url is :https://www.trendyol.com/Butik/Liste/Erkek - 23:36:41.420
+TestBase - INFO: Browser Launched - 23:36:43.534
+FirstTest - INFO: Test Close - 23:36:44.560
+FirstTest - INFO: Browser Closed - 23:36:44.678
+PropertiesFile - INFO: Default browser is :chrome - 23:42:11.098
+TestBase - INFO: Test Started with : chrome browser - 23:42:11.100
+PropertiesFile - INFO: Default url is :https://www.trendyol.com/Butik/Liste/Erkek - 23:42:13.022
+TestBase - INFO: Browser Launched - 23:42:15.227
+FirstTest - INFO: Test Close - 23:42:15.986
+FirstTest - INFO: Browser Closed - 23:42:16.152
+PropertiesFile - INFO: Default browser is :chrome - 23:42:33.722
+TestBase - INFO: Test Started with : chrome browser - 23:42:33.723
+PropertiesFile - INFO: Default url is :https://www.trendyol.com/Butik/Liste/Erkek - 23:42:35.538
+TestBase - INFO: Browser Launched - 23:42:37.325
+FirstTest - INFO: Test Close - 23:42:37.760
+FirstTest - INFO: Browser Closed - 23:42:37.865
+PropertiesFile - INFO: Default browser is :chrome - 23:44:16.019
+TestBase - INFO: Test Started with : chrome browser - 23:44:16.020
+PropertiesFile - INFO: Default url is :https://www.trendyol.com/Butik/Liste/Erkek - 23:44:17.875
+TestBase - INFO: Browser Launched - 23:44:20.076
+FirstTest - INFO: Test Close - 23:44:20.674
+FirstTest - INFO: Browser Closed - 23:44:20.778
+PropertiesFile - INFO: Default browser is :chrome - 23:45:01.618
+TestBase - INFO: Test Started with : chrome browser - 23:45:01.620
+PropertiesFile - INFO: Default url is :https://www.trendyol.com/Butik/Liste/Erkek - 23:45:03.346
+TestBase - INFO: Browser Launched - 23:45:05.107
+FirstTest - INFO: Test Close - 23:45:07.969
+FirstTest - INFO: Browser Closed - 23:45:08.074
+PropertiesFile - INFO: Default browser is :chrome - 23:46:41.962
+TestBase - INFO: Test Started with : chrome browser - 23:46:41.963
+PropertiesFile - INFO: Default url is :https://www.trendyol.com/Butik/Liste/Erkek - 23:46:43.649
+TestBase - INFO: Browser Launched - 23:46:46.083
+FirstTest - INFO: Test Close - 23:46:48.845
+FirstTest - INFO: Browser Closed - 23:46:48.946
+PropertiesFile - INFO: Default browser is :chrome - 23:52:30.720
+TestBase - INFO: Test Started with : chrome browser - 23:52:30.721
+PropertiesFile - INFO: Default url is :https://www.trendyol.com/Butik/Liste/Erkek - 23:52:32.565
+TestBase - INFO: Browser Launched - 23:52:34.333
+PropertiesFile - INFO: Default browser is :chrome - 23:54:50.449
+TestBase - INFO: Test Started with : chrome browser - 23:54:50.451
+PropertiesFile - INFO: Default url is :https://www.trendyol.com/Butik/Liste/Erkek - 23:54:52.225
+TestBase - INFO: Browser Launched - 23:54:54.171
+PropertiesFile - INFO: Default browser is :chrome - 23:56:14.361
+TestBase - INFO: Test Started with : chrome browser - 23:56:14.362
+PropertiesFile - INFO: Default url is :https://www.trendyol.com/Butik/Liste/Erkek - 23:56:16.209
+TestBase - INFO: Browser Launched - 23:56:18.096
+PropertiesFile - INFO: Default browser is :chrome - 23:57:32.159
+TestBase - INFO: Test Started with : chrome browser - 23:57:32.160
+PropertiesFile - INFO: Default url is :https://www.trendyol.com/Butik/Liste/Erkek - 23:57:33.943
+TestBase - INFO: Browser Launched - 23:57:37.172
+PropertiesFile - INFO: Default browser is :chrome - 00:00:12.157
+TestBase - INFO: Test Started with : chrome browser - 00:00:12.158
+PropertiesFile - INFO: Default url is :https://www.trendyol.com/Butik/Liste/Erkek - 00:00:13.860
+TestBase - INFO: Browser Launched - 00:00:16.648
+PropertiesFile - INFO: Default browser is :chrome - 00:01:39.840
+TestBase - INFO: Test Started with : chrome browser - 00:01:39.841
+PropertiesFile - INFO: Default url is :https://www.trendyol.com/Butik/Liste/Erkek - 00:01:41.704
+TestBase - INFO: Browser Launched - 00:01:43.677
+FirstTest - INFO: Test Close - 00:01:46.478
+FirstTest - INFO: Browser Closed - 00:01:46.581
+PropertiesFile - INFO: Default browser is :chrome - 00:02:16.119
+TestBase - INFO: Test Started with : chrome browser - 00:02:16.120
+PropertiesFile - INFO: Default url is :https://www.trendyol.com/Butik/Liste/Erkek - 00:02:17.928
+TestBase - INFO: Browser Launched - 00:02:19.669
+FirstTest - INFO: Test Close - 00:02:22.520
+FirstTest - INFO: Browser Closed - 00:02:22.620
+PropertiesFile - INFO: Default browser is :chrome - 00:08:26.714
+TestBase - INFO: Test Started with : chrome browser - 00:08:26.715
+PropertiesFile - INFO: Default url is :https://www.trendyol.com/Butik/Liste/Erkek - 00:08:28.431
+TestBase - INFO: Browser Launched - 00:08:30.204
+FirstTest - INFO: Test Close - 00:08:33.107
+FirstTest - INFO: Browser Closed - 00:08:33.209
+PropertiesFile - INFO: Default browser is :chrome - 00:13:12.848
+TestBase - INFO: Test Started with : chrome browser - 00:13:12.849
+PropertiesFile - INFO: Default url is :https://www.trendyol.com/Butik/Liste/Erkek - 00:13:14.677
+TestBase - INFO: Browser Launched - 00:13:16.471
+FirstTest - INFO: Test Close - 00:13:19.264
+FirstTest - INFO: Browser Closed - 00:13:19.368
+PropertiesFile - INFO: Default browser is :chrome - 00:14:59.634
+TestBase - INFO: Test Started with : chrome browser - 00:14:59.635
+PropertiesFile - INFO: Default url is :https://www.trendyol.com/Butik/Liste/Erkek - 00:15:01.422
+TestBase - INFO: Browser Launched - 00:15:03.658
+FirstTest - INFO: Test Close - 00:15:06.039
+FirstTest - INFO: Browser Closed - 00:15:06.140
+PropertiesFile - INFO: Default browser is :chrome - 00:16:05.847
+TestBase - INFO: Test Started with : chrome browser - 00:16:05.849
+PropertiesFile - INFO: Default url is :https://www.trendyol.com/Butik/Liste/Erkek - 00:16:07.689
+TestBase - INFO: Browser Launched - 00:16:12.231
+PropertiesFile - INFO: Default browser is :chrome - 00:20:42.742
+TestBase - INFO: Test Started with : chrome browser - 00:20:42.743
+PropertiesFile - INFO: Default url is :https://www.trendyol.com/Butik/Liste/Erkek - 00:20:44.623
+TestBase - INFO: Browser Launched - 00:20:46.464
+PropertiesFile - INFO: Default browser is :chrome - 00:36:22.813
+TestBase - INFO: Test Started with : chrome browser - 00:36:22.814
+PropertiesFile - INFO: Default url is :https://www.trendyol.com/Butik/Liste/Erkek - 00:36:24.636
+TestBase - INFO: Browser Launched - 00:36:31.035
+PropertiesFile - INFO: Default browser is :chrome - 00:38:25.710
+TestBase - INFO: Test Started with : chrome browser - 00:38:25.711
+PropertiesFile - INFO: Default url is :https://www.trendyol.com/Butik/Liste/Erkek - 00:38:29.911
+TestBase - INFO: Browser Launched - 00:38:34.880
+PropertiesFile - INFO: Default browser is :chrome - 00:45:18.621
+TestBase - INFO: Test Started with : chrome browser - 00:45:18.622
+PropertiesFile - INFO: Default url is :https://www.trendyol.com/Butik/Liste/Erkek - 00:45:20.523
+TestBase - INFO: Browser Launched - 00:45:23.757
+FirstTest - INFO: Test Close - 00:45:28.717
+FirstTest - INFO: Browser Closed - 00:45:28.824
+PropertiesFile - INFO: Default browser is :chrome - 00:46:49.587
+TestBase - INFO: Test Started with : chrome browser - 00:46:49.588
+PropertiesFile - INFO: Default url is :https://www.trendyol.com/Butik/Liste/Erkek - 00:46:51.429
+TestBase - INFO: Browser Launched - 00:46:54.322
+FirstTest - INFO: Test Close - 00:47:00.577
+FirstTest - INFO: Browser Closed - 00:47:00.684
+PropertiesFile - INFO: Default browser is :chrome - 00:47:36.349
+TestBase - INFO: Test Started with : chrome browser - 00:47:36.350
+PropertiesFile - INFO: Default url is :https://www.trendyol.com/Butik/Liste/Erkek - 00:47:38.189
+TestBase - INFO: Browser Launched - 00:47:41.648
+FirstTest - INFO: Test Close - 00:47:50.195
+FirstTest - INFO: Browser Closed - 00:47:50.300
+PropertiesFile - INFO: Default browser is :chrome - 01:35:12.013
+TestBase - INFO: Test Started with : chrome browser - 01:35:12.014
+PropertiesFile - INFO: Default url is :https://www.trendyol.com/Butik/Liste/Erkek - 01:35:13.976
+TestBase - INFO: Browser Launched - 01:35:15.445
+FirstTest - INFO: Test Close - 01:35:16.635
+FirstTest - INFO: Browser Closed - 01:35:16.744
+PropertiesFile - INFO: Default browser is :chrome - 01:38:16.960
+TestBase - INFO: Test Started with : chrome browser - 01:38:16.961
+PropertiesFile - INFO: Default url is :https://www.trendyol.com/Butik/Liste/Erkek - 01:38:18.785
+TestBase - INFO: Browser Launched - 01:38:22.883
+FirstTest - INFO: Test Close - 01:38:23.370
+FirstTest - INFO: Browser Closed - 01:38:23.480
+PropertiesFile - INFO: Default browser is :chrome - 01:38:49.150
+TestBase - INFO: Test Started with : chrome browser - 01:38:49.151
+PropertiesFile - INFO: Default url is :https://www.trendyol.com/Butik/Liste/Erkek - 01:38:50.851
+TestBase - INFO: Browser Launched - 01:38:52.586
+FirstTest - INFO: Test Close - 01:38:53.033
+FirstTest - INFO: Browser Closed - 01:38:53.152
+PropertiesFile - INFO: Default browser is :chrome - 01:40:39.670
+TestBase - INFO: Test Started with : chrome browser - 01:40:39.671
+PropertiesFile - INFO: Default url is :https://www.trendyol.com/Butik/Liste/Erkek - 01:40:41.450
+TestBase - INFO: Browser Launched - 01:40:43.263
+FirstTest - INFO: Test Close - 01:40:43.911
+FirstTest - INFO: Browser Closed - 01:40:44.022
+PropertiesFile - INFO: Default browser is :chrome - 01:43:37.065
+TestBase - INFO: Test Started with : chrome browser - 01:43:37.066
+PropertiesFile - INFO: Default url is :https://www.trendyol.com/Butik/Liste/Erkek - 01:43:38.888
+TestBase - INFO: Browser Launched - 01:43:40.179
+FirstTest - INFO: Test Close - 01:43:40.738
+FirstTest - INFO: Browser Closed - 01:43:40.835
+PropertiesFile - INFO: Default browser is :chrome - 01:43:55.414
+TestBase - INFO: Test Started with : chrome browser - 01:43:55.415
+PropertiesFile - INFO: Default url is :https://www.trendyol.com/Butik/Liste/Erkek - 01:43:57.313
+TestBase - INFO: Browser Launched - 01:43:59.291
+FirstTest - INFO: Test Close - 01:43:59.685
+FirstTest - INFO: Browser Closed - 01:43:59.791
+PropertiesFile - INFO: Default browser is :chrome - 01:53:46.927
+TestBase - INFO: Test Started with : chrome browser - 01:53:46.928
+PropertiesFile - INFO: Default url is :https://www.trendyol.com/Butik/Liste/Erkek - 01:53:48.709
+TestBase - INFO: Browser Launched - 01:53:50.599
+FirstTest - INFO: Test Close - 01:53:51.255
+FirstTest - INFO: Browser Closed - 01:53:51.368
