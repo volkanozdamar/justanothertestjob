@@ -14,16 +14,9 @@ import waithelper.WaitHelper;
 
 import java.util.concurrent.TimeUnit;
 
-public class SecondTest extends TestBase {
-    @VisibleForTesting
-    private WebDriver driver;
-    long start;
-    @BeforeTest
-    public void beforeTest(){
-        start = System.currentTimeMillis();
-        driver = runLocal();
-        driver.manage().window().fullscreen();
-    }
+public class SecondTest extends MainTest {
+
+    long start = System.currentTimeMillis();
     @Test(description = "Firefox Test")
     public void myTest() throws Exception {
         MainPage mainPage = new MainPage(driver);
@@ -37,11 +30,5 @@ public class SecondTest extends TestBase {
 
     }
 
-    @AfterTest
-    public void afterTest(){
-        Logger.info("Test Close");
-        driver.quit();
-        Logger.info("Browser Closed");
-    }
 
 }
