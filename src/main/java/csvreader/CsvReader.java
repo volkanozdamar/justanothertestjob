@@ -10,7 +10,7 @@ public class CsvReader {
     String[] HEADERS = { "URL", "RESPONSE"};
     String csvPath = System.getProperty("user.dir")+"/src/resources/csv/";
     public void readCSVFile() throws Exception{
-        Reader in = new FileReader(csvPath+"data.csv");
+        Reader in = new FileReader(csvPath+"firstTest.csv");
         Iterable<CSVRecord> records = CSVFormat.DEFAULT
                 .withHeader(HEADERS)
                 .withFirstRecordAsHeader()

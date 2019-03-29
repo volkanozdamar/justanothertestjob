@@ -20,10 +20,8 @@ public class FirstTest extends TestBase{
     }
     @Test(description = "Firefox Test")
     public void myTest() throws Exception {
-        CsvReader csvReader = new CsvReader();
-        csvReader.readCSVFile();
-        CsvWriter csvWriter = new CsvWriter();
-        csvWriter.CsvWrite();
+        MainPage mainPage = new MainPage(driver);
+        mainPage.writeLinks();
     }
 
     @AfterTest
