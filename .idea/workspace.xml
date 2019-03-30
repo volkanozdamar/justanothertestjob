@@ -57,7 +57,7 @@
         <entry file="file://$PROJECT_DIR$/docker-compose.yml">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="414">
-              <caret line="23" column="6" selection-start-line="23" selection-start-column="6" selection-end-line="23" selection-end-column="6" />
+              <caret line="23" column="22" selection-start-line="23" selection-start-column="22" selection-end-line="23" selection-end-column="22" />
             </state>
           </provider>
         </entry>
@@ -223,7 +223,7 @@
     <property name="SONARLINT_PRECOMMIT_ANALYSIS" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1553956193690" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1553956343134" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
   </component>
@@ -316,10 +316,10 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Docker.docker-compose.yml: Compose Deployment" />
         <item itemvalue="TestNG.C:/Users/volka/IdeaProjects/justanothertestjobmine/src/main/resources/testng.xml" />
         <item itemvalue="TestNG.ThirdTest" />
         <item itemvalue="TestNG.SecondTest" />
-        <item itemvalue="Docker.docker-compose.yml: Compose Deployment" />
         <item itemvalue="TestNG.FirstTest" />
       </list>
     </recent_temporary>
@@ -340,7 +340,7 @@
       <workItem from="1553929244426" duration="2287000" />
       <workItem from="1553932351463" duration="2931000" />
       <workItem from="1553935751795" duration="2656000" />
-      <workItem from="1553955285721" duration="901000" />
+      <workItem from="1553955285721" duration="1030000" />
     </task>
     <task id="LOCAL-00001" summary="docker-compose">
       <created>1553956111751</created>
@@ -349,7 +349,14 @@
       <option name="project" value="LOCAL" />
       <updated>1553956111751</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="docker-compose syntax">
+      <created>1553956210674</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1553956210674</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TestHistory">
@@ -385,7 +392,7 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="34738000" />
+    <option name="totallyTimeSpent" value="34867000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
@@ -396,14 +403,14 @@
       <window_info id="UI Designer" order="2" />
       <window_info id="Favorites" order="3" side_tool="true" />
       <window_info id="Designer" order="4" />
-      <window_info active="true" content_ui="combo" id="Project" order="5" visible="true" weight="0.20948827" />
+      <window_info content_ui="combo" id="Project" order="5" visible="true" weight="0.20948827" />
       <window_info id="Structure" order="6" side_tool="true" weight="0.25" />
-      <window_info anchor="bottom" id="Docker" order="0" weight="0.32936078" />
+      <window_info active="true" anchor="bottom" id="Docker" order="0" visible="true" weight="0.32936078" />
       <window_info anchor="bottom" id="Event Log" order="1" sideWeight="0.50053304" side_tool="true" weight="0.32936078" />
       <window_info anchor="bottom" id="SonarLint" order="2" />
       <window_info anchor="bottom" id="Messages" order="3" sideWeight="0.49946696" weight="0.32936078" />
       <window_info anchor="bottom" id="Database Changes" order="4" />
-      <window_info anchor="bottom" id="Version Control" order="5" visible="true" weight="0.32936078" />
+      <window_info anchor="bottom" id="Version Control" order="5" weight="0.32936078" />
       <window_info anchor="bottom" id="Terminal" order="6" weight="0.32936078" />
       <window_info anchor="bottom" id="Message" order="7" />
       <window_info anchor="bottom" id="Find" order="8" weight="0.32936078" />
@@ -460,7 +467,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="docker-compose" />
-    <option name="LAST_COMMIT_MESSAGE" value="docker-compose" />
+    <MESSAGE value="docker-compose syntax" />
+    <option name="LAST_COMMIT_MESSAGE" value="docker-compose syntax" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/src/main/java/statusCode/StatusCode.java" />
@@ -657,7 +665,7 @@
     <entry file="file://$PROJECT_DIR$/docker-compose.yml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="414">
-          <caret line="23" column="6" selection-start-line="23" selection-start-column="6" selection-end-line="23" selection-end-column="6" />
+          <caret line="23" column="22" selection-start-line="23" selection-start-column="22" selection-end-line="23" selection-end-column="22" />
         </state>
       </provider>
     </entry>
