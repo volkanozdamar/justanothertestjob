@@ -21,4 +21,4 @@ services:
   hub:
     image: selenium/hub:3.14.0-gallium
     ports:
-  - "4444:4444"git
+      - "4444:4444"git
