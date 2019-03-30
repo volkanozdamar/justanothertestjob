@@ -1,0 +1,1 @@
+{"uuid":"dd44697e-b8db-463c-a394-5bb0924ade24","name":"justanothertestjobmine","children":["8abd2c7c-a816-4eea-a6d3-6d8e17e4aafd"],"befores":[{"name":"beforeTest","status":"passed","stage":"finished","description":"","steps":[],"attachments":[],"parameters":[],"start":1553935175319,"stop":1553935185174}],"afters":[],"links":[],"start":1553935175293,"stop":1553935186905}

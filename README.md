@@ -1,9 +1,23 @@
+**Prerequisites**
+
+- Java 8+
+- Docker
+
+To run test , execute  `docker-compose up -d` in root of project folder and then execute `mvn test` command
+
+
+**Build Status** 
+
 [![Build Status](https://dev.azure.com/ozdamarvolkan/TestRepo/_apis/build/status/volkanozdamar.SeleniumFramework?branchName=master)](https://dev.azure.com/ozdamarvolkan/TestRepo/_build/latest?definitionId=32&branchName=master)
+      
+**Generate Allure Report**
+
+`allure generate build/allure`
 
 
-Homemaded SeleniumFramework Just for FUN! 
 
--Azure Pipelines for Azure DevOps https://azure.microsoft.com/tr-tr/services/devops/pipelines/
+**Libraries**
+
 
 -Docker-Selenium https://github.com/SeleniumHQ/docker-selenium
 

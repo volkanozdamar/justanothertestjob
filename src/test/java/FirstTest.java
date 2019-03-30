@@ -12,7 +12,7 @@ import org.tinylog.Logger;
 
 public class FirstTest extends MainTest{
 
-    @Test(description = "Firefox Test")
+    @Test(description = "First Test")
     public void myTest() throws Exception {
         MainPage mainPage = new MainPage(driver);
         mainPage.writeLinks();

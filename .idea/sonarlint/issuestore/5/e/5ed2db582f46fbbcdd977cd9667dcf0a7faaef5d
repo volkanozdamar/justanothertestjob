@@ -1,0 +1,9 @@
+
+vsquid:UselessImportCheck"KRemove this unused import 'org.apache.http.client.ClientProtocolException'.(Ê‰êÀ8Ñ¾ÓÆœ-
+`squid:UselessImportCheck"0Remove this unused import 'java.io.IOException'.(ªº»Úıÿÿÿÿ8Ñ¾ÓÆœ-
+dsquid:UselessImportCheck"4Remove this unused import 'excelreader.ExcelWriter'.(Ÿô»ÿûÿÿÿÿ8Ñ¾ÓÆœ-
+isquid:UselessImportCheck">Remove this unused import 'org.apache.http.client.HttpClient'.(¨­—8ªÊÉœ-
+zsquid:UselessImportCheck
+"JRemove this unused import 'org.apache.http.impl.client.HttpClientBuilder'.(İØÒıÿÿÿÿ8Ñ¾ÓÆœ-
+isquid:UselessImportCheck"9Remove this unused import 'org.apache.http.HttpResponse'.(«°üİÿÿÿÿÿ8ªÊÉœ-
+nsquid:UselessImportCheck	"CRemove this unused import 'org.apache.http.client.methods.HttpGet'.(‡Ê’Ú8ªÊÉœ-

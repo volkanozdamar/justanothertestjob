@@ -17,7 +17,7 @@ import java.util.concurrent.TimeUnit;
 public class SecondTest extends MainTest {
 
     long start = System.currentTimeMillis();
-    @Test(description = "Firefox Test")
+    @Test(description = "Second Test")
     public void myTest() throws Exception {
         MainPage mainPage = new MainPage(driver);
         JavascriptExecutor js = (JavascriptExecutor) driver;

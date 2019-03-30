@@ -1,0 +1,14 @@
+
+_squid:UselessImportCheck
+"/Remove this unused import 'java.io.FileWriter'.(Ã‘ÅÃıÿÿÿÿ8õÓÂÍœ-
+V
+squid:S106("9Replace this use of System.out or System.err by a logger.(øÅ¹¼8±›ÓÎœ-
+jsquid:S00112"FDefine and throw a dedicated exception instead of using a generic one.(áèÛ¥úÿÿÿÿ8ÈÚ«Èœ-
+isquid:UselessImportCheck">Remove this unused import 'au.com.bytecode.opencsv.CSVWriter'.(×¬òğ8õÓÂÍœ-
+[
+squid:S106%"9Replace this use of System.out or System.err by a logger.(µê¼¦üÿÿÿÿ8Ú­ÒÎœ-
+V
+squid:S106*"9Replace this use of System.out or System.err by a logger.(øÅ¹¼8´îŞÍœ-
+[
+squid:S106)"9Replace this use of System.out or System.err by a logger.(¢“ì”ıÿÿÿÿ8§±ŞÍœ-
+esquid:S00112 "FDefine and throw a dedicated exception instead of using a generic one.(ˆŸÖ8õÓÂÍœ-
