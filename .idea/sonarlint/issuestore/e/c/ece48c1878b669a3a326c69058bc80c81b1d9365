@@ -1,9 +1,9 @@
 
-]squid:S2095"FUse try-with-resources or close this "Workbook" in a "finally" clause.(Ö—¦µ
 €squid:UselessImportCheck"WRemove this unused import 'org.apache.poi.openxml4j.exceptions.InvalidFormatException'.(Èö»ûÿÿÿÿ
-Tsquid:UselessImportCheck"+Remove this unused import 'java.util.List'.(Õë±Äøÿÿÿÿ
-psquid:UselessImportCheck	"GRemove this unused import 'org.apache.poi.xssf.usermodel.XSSFWorkbook'.(Œ¦ƒëşÿÿÿÿ
-Qsquid:S1118":Add a private constructor to hide the implicit public one.(Ïı÷‹
+]squid:S2095"FUse try-with-resources or close this "Workbook" in a "finally" clause.(Ö—¦µ
 msquid:UselessImportCheck"DRemove this unused import 'org.apache.poi.xssf.usermodel.XSSFSheet'.(¡ÏŸ®úÿÿÿÿ
+psquid:UselessImportCheck	"GRemove this unused import 'org.apache.poi.xssf.usermodel.XSSFWorkbook'.(Œ¦ƒëşÿÿÿÿ
+Tsquid:UselessImportCheck"+Remove this unused import 'java.util.List'.(Õë±Äøÿÿÿÿ
 dsquid:UselessImportCheck
 ";Remove this unused import 'org.openqa.selenium.WebElement'.(‰ïµ”şÿÿÿÿ
+Qsquid:S1118":Add a private constructor to hide the implicit public one.(Ïı÷‹

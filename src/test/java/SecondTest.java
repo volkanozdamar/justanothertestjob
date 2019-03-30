@@ -1,10 +1,11 @@
 import com.google.common.annotations.VisibleForTesting;
 import executor.PageScrool;
 import object_repository.MainPage;
-import org.openqa.selenium.By;
-import org.openqa.selenium.JavascriptExecutor;
-import org.openqa.selenium.WebDriver;
-import org.openqa.selenium.WebElement;
+import org.apache.commons.io.FileUtils;
+import org.openqa.selenium.*;
+import org.openqa.selenium.remote.RemoteWebDriver;
+import org.testng.ITestResult;
+import org.testng.annotations.AfterMethod;
 import org.testng.annotations.AfterTest;
 import org.testng.annotations.BeforeTest;
 import org.testng.annotations.Test;
@@ -12,9 +13,17 @@ import org.tinylog.Logger;
 import testbase.TestBase;
 import waithelper.WaitHelper;
 
+import java.io.File;
 import java.util.concurrent.TimeUnit;
 
-public class SecondTest extends MainTest {
+public class SecondTest extends TestBase {
+    RemoteWebDriver driver;
+    @BeforeTest
+    public void beforeTest(){
+        driver = dockerBrowser();
+        driver.manage().window().fullscreen();
+
+    }
 
     long start = System.currentTimeMillis();
     @Test(description = "Second Test")
@@ -28,6 +37,23 @@ public class SecondTest extends MainTest {
         new WaitHelper(driver).waitForElement(Element,100000000);
         mainPage.littleBoutiqueImages(start);
 
+    }
+
+    @AfterTest
+    public void afterTest(){
+        Logger.info("Test Close");
+        driver.quit();
+
+    }
+    @AfterMethod
+    public void afterTest(ITestResult result) throws Exception{
+        if (ITestResult.FAILURE == result.getStatus()){
+            File scrFile = ((TakesScreenshot)driver).getScreenshotAs(OutputType.FILE);
+            FileUtils.copyFile(scrFile, new File(System.getProperty("user.dir")+"/src/resources/screenshots/failure.png"));
+            Logger.info("Test Failure,Screenshot Saved");
+        }
+        Logger.info("Test Done Completely");
+        Logger.info("Browser Closed");
     }
 
 
