@@ -10,6 +10,8 @@ import org.openqa.selenium.support.PageFactory;
 import org.openqa.selenium.support.ui.WebDriverWait;
 import waithelper.WaitHelper;
 
+import java.util.concurrent.TimeUnit;
+
 public class Login {
     WebDriver driver;
     WebDriverWait wait;
@@ -41,8 +43,12 @@ public class Login {
     @FindBy(id = "popupLoginMain")
     WebElement popupLoginMain;
 
+    @FindBy(id = "errorBox")
+    WebElement errorBox;
+
     public void hoverToLoginRegisterButtonContainer(){
         action = new Actions(driver);
+        new WaitHelper(driver).waitForElement(loginRegisterButtonContainer,30);
         action.moveToElement(loginRegisterButtonContainer).build().perform();
     }
 
@@ -53,6 +59,7 @@ public class Login {
 
 
     public void clickToLoginButton(){
+        new WaitHelper(driver).waitForElement(loginButton,30);
         loginButton.click();
     }
 
@@ -70,6 +77,12 @@ public class Login {
 
     public void waitForPopupLoginMain(int time){
         new WaitHelper(driver).waitForElement(popupLoginMain,time);
+    }
+
+    public String getErrorBoxText(){
+        new WaitHelper(driver).waitForElement(errorBox,30);
+        return errorBox.getText();
+
     }
 
 

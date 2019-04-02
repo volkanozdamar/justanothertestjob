@@ -1,10 +1,7 @@
 package waithelper;
 
 import org.openqa.selenium.*;
-import org.openqa.selenium.support.ui.ExpectedConditions;
-import org.openqa.selenium.support.ui.FluentWait;
-import org.openqa.selenium.support.ui.Wait;
-import org.openqa.selenium.support.ui.WebDriverWait;
+import org.openqa.selenium.support.ui.*;
 import org.tinylog.Logger;
 
 import java.time.Duration;
@@ -143,6 +140,16 @@ public class WaitHelper {
         WebDriverWait wait = new WebDriverWait(driver, timeOutInSeconds);
         wait.until(ExpectedConditions.visibilityOf(element));
         Logger.info("element is visible now");
+    }
+
+    /**
+     * Wait for Javascript Load
+     * @param driver
+     */
+
+    public void waitForLoad(WebDriver driver) {
+        new WebDriverWait(driver, 30).until((ExpectedCondition<Boolean>) wd ->
+                ((JavascriptExecutor) wd).executeScript("return document.readyState").equals("complete"));
     }
 
 

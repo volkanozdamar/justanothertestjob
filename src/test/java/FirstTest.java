@@ -19,7 +19,7 @@ import org.tinylog.Logger;
 import java.io.File;
 
 public class FirstTest extends TestBase{
-    RemoteWebDriver driver;
+    WebDriver driver;
 
     @BeforeTest
     public void beforeTest(){

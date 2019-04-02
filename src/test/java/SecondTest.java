@@ -17,7 +17,7 @@ import java.io.File;
 import java.util.concurrent.TimeUnit;
 
 public class SecondTest extends TestBase {
-    RemoteWebDriver driver;
+    WebDriver driver;
     @BeforeTest
     public void beforeTest(){
         driver = dockerBrowser();

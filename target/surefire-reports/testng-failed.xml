@@ -3,13 +3,13 @@
 <suite name="Failed suite [Command line suite]" verbose="0">
   <test thread-count="5" name="Command line test(failed)" verbose="0">
     <classes>
-      <class name="SecondTest">
+      <class name="CucumberTest">
         <methods>
-          <include name="After_Test"/>
-          <include name="Before_Test"/>
-          <include name="Deneme"/>
+          <include name="setUpClass"/>
+          <include name="runScenario" invocation-numbers="0 1 2 3 4 5"/>
+          <include name="tearDownClass"/>
         </methods>
-      </class> <!-- SecondTest -->
+      </class> <!-- CucumberTest -->
     </classes>
   </test> <!-- Command line test(failed) -->
 </suite> <!-- Failed suite [Command line suite] -->

@@ -1,83 +1,166 @@
 <?xml version="1.0" encoding="UTF-8" ?>
-<testsuite tests="2" failures="1" name="TestSuite" time="4.452" errors="0" skipped="0">
+<testsuite tests="9" failures="6" name="TestSuite" time="211.373" errors="0" skipped="0">
   <properties>
     <property name="java.runtime.name" value="Java(TM) SE Runtime Environment"/>
-    <property name="java.vm.version" value="11.0.1+13-LTS"/>
-    <property name="sun.boot.library.path" value="/Library/Java/JavaVirtualMachines/jdk-11.0.1.jdk/Contents/Home/lib"/>
-    <property name="gopherProxySet" value="false"/>
-    <property name="maven.multiModuleProjectDirectory" value="/Users/trozdamv/MyProjects/AzureDevOps/SeleniumFramework"/>
+    <property name="java.vm.version" value="12+33"/>
+    <property name="sun.boot.library.path" value="C:\Program Files\Java\jdk-12\bin"/>
+    <property name="maven.multiModuleProjectDirectory" value="C:\Users\volka\IdeaProjects\justanothertestjob"/>
     <property name="java.vm.vendor" value="Oracle Corporation"/>
-    <property name="java.vendor.url" value="http://java.oracle.com/"/>
+    <property name="java.vendor.url" value="https://java.oracle.com/"/>
     <property name="guice.disable.misplaced.annotation.check" value="true"/>
-    <property name="path.separator" value=":"/>
+    <property name="path.separator" value=";"/>
     <property name="java.vm.name" value="Java HotSpot(TM) 64-Bit Server VM"/>
-    <property name="sun.os.patch.level" value="unknown"/>
-    <property name="user.country" value="TR"/>
+    <property name="sun.os.patch.level" value=""/>
+    <property name="user.script" value=""/>
+    <property name="user.country" value="GB"/>
     <property name="sun.java.launcher" value="SUN_STANDARD"/>
     <property name="java.vm.specification.name" value="Java Virtual Machine Specification"/>
-    <property name="user.dir" value="/Users/trozdamv/MyProjects/AzureDevOps/SeleniumFramework"/>
+    <property name="user.dir" value="C:\Users\volka\IdeaProjects\justanothertestjob"/>
     <property name="java.vm.compressedOopsMode" value="Zero based"/>
-    <property name="java.runtime.version" value="11.0.1+13-LTS"/>
-    <property name="java.awt.graphicsenv" value="sun.awt.CGraphicsEnvironment"/>
-    <property name="os.arch" value="x86_64"/>
-    <property name="java.io.tmpdir" value="/var/folders/1p/qbj0w_k53x99jmv971_9tbb86txf43/T/"/>
+    <property name="java.runtime.version" value="12+33"/>
+    <property name="java.awt.graphicsenv" value="sun.awt.Win32GraphicsEnvironment"/>
+    <property name="os.arch" value="amd64"/>
+    <property name="java.io.tmpdir" value="C:\Users\volka\AppData\Local\Temp\"/>
     <property name="line.separator" value="
 "/>
     <property name="java.vm.specification.vendor" value="Oracle Corporation"/>
-    <property name="os.name" value="Mac OS X"/>
-    <property name="classworlds.conf" value="/usr/local/Cellar/maven/3.6.0/libexec/bin/m2.conf"/>
-    <property name="sun.jnu.encoding" value="UTF-8"/>
-    <property name="java.library.path" value="/Users/trozdamv/Library/Java/Extensions:/Library/Java/Extensions:/Network/Library/Java/Extensions:/System/Library/Java/Extensions:/usr/lib/java:."/>
-    <property name="maven.conf" value="/usr/local/Cellar/maven/3.6.0/libexec/conf"/>
+    <property name="user.variant" value=""/>
+    <property name="os.name" value="Windows 10"/>
+    <property name="classworlds.conf" value="C:\tools\maven\bin\..\bin\m2.conf"/>
+    <property name="sun.jnu.encoding" value="Cp1252"/>
+    <property name="java.library.path" value="C:\Program Files\Java\jdk-12\bin;C:\Windows\Sun\Java\bin;C:\Windows\system32;C:\Windows;C:\ProgramData\DockerDesktop\version-bin;C:\Program Files\Docker\Docker\Resources\bin;C:\Program Files (x86)\Common Files\Oracle\Java\javapath;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Windows\System32\OpenSSH\;C:\ProgramData\chocolatey\bin;C:\tools\maven\bin;C:\Program Files\Git\cmd;C:\Program Files\Java\jdk-12\bin;%USERPROFILE%\AppData\Local\Microsoft\WindowsApps;C:\Users\volka\AppData\Local\Programs\Microsoft VS Code\bin;C:\Users\volka\AppData\Local\hyper\app-2.1.2\resources\bin;."/>
+    <property name="maven.conf" value="C:\tools\maven\bin\../conf"/>
     <property name="jdk.debug" value="release"/>
-    <property name="java.class.version" value="55.0"/>
+    <property name="java.class.version" value="56.0"/>
     <property name="java.specification.name" value="Java Platform API Specification"/>
     <property name="sun.management.compiler" value="HotSpot 64-Bit Tiered Compilers"/>
-    <property name="os.version" value="10.14.2"/>
-    <property name="library.jansi.path" value="/usr/local/Cellar/maven/3.6.0/libexec/lib/jansi-native"/>
-    <property name="http.nonProxyHosts" value="local|*.local|169.254/16|*.169.254/16"/>
-    <property name="user.home" value="/Users/trozdamv"/>
+    <property name="os.version" value="10.0"/>
+    <property name="library.jansi.path" value="C:\tools\maven\bin\..\lib\jansi-native"/>
+    <property name="user.home" value="C:\Users\volka"/>
     <property name="user.timezone" value="Europe/Istanbul"/>
-    <property name="java.awt.printerjob" value="sun.lwawt.macosx.CPrinterJob"/>
-    <property name="file.encoding" value="UTF-8"/>
-    <property name="java.specification.version" value="11"/>
-    <property name="user.name" value="trozdamv"/>
-    <property name="java.class.path" value="/usr/local/Cellar/maven/3.6.0/libexec/boot/plexus-classworlds-2.5.2.jar"/>
-    <property name="java.vm.specification.version" value="11"/>
+    <property name="file.encoding" value="Cp1252"/>
+    <property name="java.specification.version" value="12"/>
+    <property name="user.name" value="volka"/>
+    <property name="java.class.path" value="C:\tools\maven\bin\..\boot\plexus-classworlds-2.5.2.jar"/>
+    <property name="java.vm.specification.version" value="12"/>
     <property name="sun.arch.data.model" value="64"/>
     <property name="sun.java.command" value="org.codehaus.plexus.classworlds.launcher.Launcher test"/>
-    <property name="java.home" value="/Library/Java/JavaVirtualMachines/jdk-11.0.1.jdk/Contents/Home"/>
+    <property name="java.home" value="C:\Program Files\Java\jdk-12"/>
     <property name="user.language" value="en"/>
     <property name="java.specification.vendor" value="Oracle Corporation"/>
-    <property name="awt.toolkit" value="sun.lwawt.macosx.LWCToolkit"/>
-    <property name="java.vm.info" value="mixed mode"/>
-    <property name="java.version" value="11.0.1"/>
+    <property name="awt.toolkit" value="sun.awt.windows.WToolkit"/>
+    <property name="java.vm.info" value="mixed mode, sharing"/>
+    <property name="java.version" value="12"/>
     <property name="java.vendor" value="Oracle Corporation"/>
-    <property name="maven.home" value="/usr/local/Cellar/maven/3.6.0/libexec"/>
-    <property name="file.separator" value="/"/>
-    <property name="java.version.date" value="2018-10-16"/>
-    <property name="java.vendor.url.bug" value="http://bugreport.java.com/bugreport/"/>
-    <property name="sun.io.unicode.encoding" value="UnicodeBig"/>
+    <property name="sun.stderr.encoding" value="cp850"/>
+    <property name="maven.home" value="C:\tools\maven\bin\.."/>
+    <property name="file.separator" value="\"/>
+    <property name="java.version.date" value="2019-03-19"/>
+    <property name="java.vendor.url.bug" value="https://bugreport.java.com/bugreport/"/>
+    <property name="sun.io.unicode.encoding" value="UnicodeLittle"/>
     <property name="sun.cpu.endian" value="little"/>
-    <property name="java.vendor.version" value="18.9"/>
-    <property name="socksNonProxyHosts" value="local|*.local|169.254/16|*.169.254/16"/>
-    <property name="ftp.nonProxyHosts" value="local|*.local|169.254/16|*.169.254/16"/>
-    <property name="sun.cpu.isalist" value=""/>
+    <property name="sun.stdout.encoding" value="cp850"/>
+    <property name="sun.desktop" value="windows"/>
+    <property name="sun.cpu.isalist" value="amd64"/>
   </properties>
-  <testcase classname="FirstTest" name="Deneme" time="2.488"/>
-  <testcase classname="SecondTest" name="Deneme" time="1.964">
-    <failure message="expected [You logged into a secure area!
-×] but found [You logged into a secure area!ü
-×]" type="java.lang.AssertionError">java.lang.AssertionError: expected [You logged into a secure area!
-×] but found [You logged into a secure area!ü
-×]
-	at org.testng.Assert.fail(Assert.java:96)
-	at org.testng.Assert.failNotEquals(Assert.java:776)
-	at org.testng.Assert.assertEqualsImpl(Assert.java:137)
-	at org.testng.Assert.assertEquals(Assert.java:118)
-	at org.testng.Assert.assertEquals(Assert.java:453)
-	at org.testng.Assert.assertEquals(Assert.java:463)
-	at SecondTest.Deneme(SecondTest.java:39)
+  <testcase classname="CucumberTest" name="runScenario" time="31.844">
+    <failure message="expected:&lt;En Trend [Ürünler Türkiye&apos;nin Online Alışveriş] Sitesi Trendyol&apos;da&gt; but was:&lt;En Trend [ÃœrÃ¼nler TÃ¼rkiye&apos;nin Online AlÄ±ÅŸveriÅŸ] Sitesi Trendyol&apos;da&gt;" type="org.junit.ComparisonFailure">org.junit.ComparisonFailure: expected:&lt;En Trend [Ürünler Türkiye&apos;nin Online Alışveriş] Sitesi Trendyol&apos;da&gt; but was:&lt;En Trend [ÃœrÃ¼nler TÃ¼rkiye&apos;nin Online AlÄ±ÅŸveriÅŸ] Sitesi Trendyol&apos;da&gt;
+	at org.junit.Assert.assertEquals(Assert.java:117)
+	at org.junit.Assert.assertEquals(Assert.java:146)
+	at steps.LoginSteps.navigateToHomePage(LoginSteps.java:37)
+	at ✽.Navigate to HomePage(file:src/test/java/features/Login.feature:5)
 </failure>
+    <system-out>Configuring TestNG with: org.apache.maven.surefire.testng.conf.TestNG652Configurator@28864e92
+&amp;#27;[31mF&amp;#27;[0m&amp;#27;[36m-&amp;#27;[0m&amp;#27;[36m-&amp;#27;[0m&amp;#27;[36m-&amp;#27;[0m&amp;#27;[36m-&amp;#27;[0m&amp;#27;[36m-&amp;#27;[0m</system-out>
+    <system-err>Apr 02, 2019 8:00:52 PM org.openqa.selenium.remote.DesiredCapabilities chrome
+INFO: Using `new ChromeOptions()` is preferred to `DesiredCapabilities.chrome()`
+Apr 02, 2019 8:00:55 PM org.openqa.selenium.remote.ProtocolHandshake createSession
+INFO: Detected dialect: OSS
+Apr 02, 2019 8:01:00 PM org.openqa.selenium.remote.DesiredCapabilities chrome
+INFO: Using `new ChromeOptions()` is preferred to `DesiredCapabilities.chrome()`
+Apr 02, 2019 8:01:03 PM org.openqa.selenium.remote.ProtocolHandshake createSession
+INFO: Detected dialect: OSS
+Apr 02, 2019 8:01:06 PM org.openqa.selenium.remote.DesiredCapabilities chrome
+INFO: Using `new ChromeOptions()` is preferred to `DesiredCapabilities.chrome()`
+Apr 02, 2019 8:01:08 PM org.openqa.selenium.remote.ProtocolHandshake createSession
+INFO: Detected dialect: OSS
+Apr 02, 2019 8:01:13 PM org.openqa.selenium.remote.DesiredCapabilities chrome
+INFO: Using `new ChromeOptions()` is preferred to `DesiredCapabilities.chrome()`
+Apr 02, 2019 8:01:32 PM org.openqa.selenium.remote.ProtocolHandshake createSession
+INFO: Detected dialect: OSS
+</system-err>
   </testcase>
+  <testcase classname="CucumberTest" name="runScenario" time="61.775">
+    <failure message="expected:&lt;En Trend [Ürünler Türkiye&apos;nin Online Alışveriş] Sitesi Trendyol&apos;da&gt; but was:&lt;En Trend [ÃœrÃ¼nler TÃ¼rkiye&apos;nin Online AlÄ±ÅŸveriÅŸ] Sitesi Trendyol&apos;da&gt;" type="org.junit.ComparisonFailure">org.junit.ComparisonFailure: expected:&lt;En Trend [Ürünler Türkiye&apos;nin Online Alışveriş] Sitesi Trendyol&apos;da&gt; but was:&lt;En Trend [ÃœrÃ¼nler TÃ¼rkiye&apos;nin Online AlÄ±ÅŸveriÅŸ] Sitesi Trendyol&apos;da&gt;
+	at org.junit.Assert.assertEquals(Assert.java:117)
+	at org.junit.Assert.assertEquals(Assert.java:146)
+	at steps.LoginSteps.navigateToHomePage(LoginSteps.java:37)
+	at ✽.Navigate to HomePage(file:src/test/java/features/Login.feature:15)
+</failure>
+    <system-out>&amp;#27;[31mF&amp;#27;[0m&amp;#27;[36m-&amp;#27;[0m&amp;#27;[36m-&amp;#27;[0m&amp;#27;[36m-&amp;#27;[0m&amp;#27;[36m-&amp;#27;[0m&amp;#27;[36m-&amp;#27;[0m&amp;#27;[36m-&amp;#27;[0m</system-out>
+    <system-err>Apr 02, 2019 8:01:45 PM org.openqa.selenium.remote.DesiredCapabilities chrome
+INFO: Using `new ChromeOptions()` is preferred to `DesiredCapabilities.chrome()`
+Apr 02, 2019 8:02:23 PM org.openqa.selenium.remote.ProtocolHandshake createSession
+INFO: Detected dialect: OSS
+</system-err>
+  </testcase>
+  <testcase classname="CucumberTest" name="runScenario" time="30.097">
+    <failure message="expected:&lt;En Trend [Ürünler Türkiye&apos;nin Online Alışveriş] Sitesi Trendyol&apos;da&gt; but was:&lt;En Trend [ÃœrÃ¼nler TÃ¼rkiye&apos;nin Online AlÄ±ÅŸveriÅŸ] Sitesi Trendyol&apos;da&gt;" type="org.junit.ComparisonFailure">org.junit.ComparisonFailure: expected:&lt;En Trend [Ürünler Türkiye&apos;nin Online Alışveriş] Sitesi Trendyol&apos;da&gt; but was:&lt;En Trend [ÃœrÃ¼nler TÃ¼rkiye&apos;nin Online AlÄ±ÅŸveriÅŸ] Sitesi Trendyol&apos;da&gt;
+	at org.junit.Assert.assertEquals(Assert.java:117)
+	at org.junit.Assert.assertEquals(Assert.java:146)
+	at steps.LoginSteps.navigateToHomePage(LoginSteps.java:37)
+	at ✽.Navigate to HomePage(file:src/test/java/features/Login.feature:15)
+</failure>
+    <system-out>&amp;#27;[31mF&amp;#27;[0m&amp;#27;[36m-&amp;#27;[0m&amp;#27;[36m-&amp;#27;[0m&amp;#27;[36m-&amp;#27;[0m&amp;#27;[36m-&amp;#27;[0m&amp;#27;[36m-&amp;#27;[0m&amp;#27;[36m-&amp;#27;[0m</system-out>
+    <system-err>Apr 02, 2019 8:02:47 PM org.openqa.selenium.remote.DesiredCapabilities chrome
+INFO: Using `new ChromeOptions()` is preferred to `DesiredCapabilities.chrome()`
+Apr 02, 2019 8:03:07 PM org.openqa.selenium.remote.ProtocolHandshake createSession
+INFO: Detected dialect: OSS
+</system-err>
+  </testcase>
+  <testcase classname="CucumberTest" name="runScenario" time="26.521">
+    <failure message="expected:&lt;En Trend [Ürünler Türkiye&apos;nin Online Alışveriş] Sitesi Trendyol&apos;da&gt; but was:&lt;En Trend [ÃœrÃ¼nler TÃ¼rkiye&apos;nin Online AlÄ±ÅŸveriÅŸ] Sitesi Trendyol&apos;da&gt;" type="org.junit.ComparisonFailure">org.junit.ComparisonFailure: expected:&lt;En Trend [Ürünler Türkiye&apos;nin Online Alışveriş] Sitesi Trendyol&apos;da&gt; but was:&lt;En Trend [ÃœrÃ¼nler TÃ¼rkiye&apos;nin Online AlÄ±ÅŸveriÅŸ] Sitesi Trendyol&apos;da&gt;
+	at org.junit.Assert.assertEquals(Assert.java:117)
+	at org.junit.Assert.assertEquals(Assert.java:146)
+	at steps.LoginSteps.navigateToHomePage(LoginSteps.java:37)
+	at ✽.Navigate to HomePage(file:src/test/java/features/Login.feature:15)
+</failure>
+    <system-out>&amp;#27;[31mF&amp;#27;[0m&amp;#27;[36m-&amp;#27;[0m&amp;#27;[36m-&amp;#27;[0m&amp;#27;[36m-&amp;#27;[0m&amp;#27;[36m-&amp;#27;[0m&amp;#27;[36m-&amp;#27;[0m&amp;#27;[36m-&amp;#27;[0m</system-out>
+    <system-err>Apr 02, 2019 8:03:17 PM org.openqa.selenium.remote.DesiredCapabilities chrome
+INFO: Using `new ChromeOptions()` is preferred to `DesiredCapabilities.chrome()`
+Apr 02, 2019 8:03:35 PM org.openqa.selenium.remote.ProtocolHandshake createSession
+INFO: Detected dialect: OSS
+</system-err>
+  </testcase>
+  <testcase classname="CucumberTest" name="runScenario" time="19.589">
+    <failure message="expected:&lt;En Trend [Ürünler Türkiye&apos;nin Online Alışveriş] Sitesi Trendyol&apos;da&gt; but was:&lt;En Trend [ÃœrÃ¼nler TÃ¼rkiye&apos;nin Online AlÄ±ÅŸveriÅŸ] Sitesi Trendyol&apos;da&gt;" type="org.junit.ComparisonFailure">org.junit.ComparisonFailure: expected:&lt;En Trend [Ürünler Türkiye&apos;nin Online Alışveriş] Sitesi Trendyol&apos;da&gt; but was:&lt;En Trend [ÃœrÃ¼nler TÃ¼rkiye&apos;nin Online AlÄ±ÅŸveriÅŸ] Sitesi Trendyol&apos;da&gt;
+	at org.junit.Assert.assertEquals(Assert.java:117)
+	at org.junit.Assert.assertEquals(Assert.java:146)
+	at steps.LoginSteps.navigateToHomePage(LoginSteps.java:37)
+	at ✽.Navigate to HomePage(file:src/test/java/features/Login.feature:15)
+</failure>
+    <system-out>&amp;#27;[31mF&amp;#27;[0m&amp;#27;[36m-&amp;#27;[0m&amp;#27;[36m-&amp;#27;[0m&amp;#27;[36m-&amp;#27;[0m&amp;#27;[36m-&amp;#27;[0m&amp;#27;[36m-&amp;#27;[0m&amp;#27;[36m-&amp;#27;[0m</system-out>
+    <system-err>Apr 02, 2019 8:03:43 PM org.openqa.selenium.remote.DesiredCapabilities chrome
+INFO: Using `new ChromeOptions()` is preferred to `DesiredCapabilities.chrome()`
+Apr 02, 2019 8:03:56 PM org.openqa.selenium.remote.ProtocolHandshake createSession
+INFO: Detected dialect: OSS
+</system-err>
+  </testcase>
+  <testcase classname="CucumberTest" name="runScenario" time="11.623">
+    <failure message="expected:&lt;En Trend [Ürünler Türkiye&apos;nin Online Alışveriş] Sitesi Trendyol&apos;da&gt; but was:&lt;En Trend [ÃœrÃ¼nler TÃ¼rkiye&apos;nin Online AlÄ±ÅŸveriÅŸ] Sitesi Trendyol&apos;da&gt;" type="org.junit.ComparisonFailure">org.junit.ComparisonFailure: expected:&lt;En Trend [Ürünler Türkiye&apos;nin Online Alışveriş] Sitesi Trendyol&apos;da&gt; but was:&lt;En Trend [ÃœrÃ¼nler TÃ¼rkiye&apos;nin Online AlÄ±ÅŸveriÅŸ] Sitesi Trendyol&apos;da&gt;
+	at org.junit.Assert.assertEquals(Assert.java:117)
+	at org.junit.Assert.assertEquals(Assert.java:146)
+	at steps.LoginSteps.navigateToHomePage(LoginSteps.java:37)
+	at ✽.Navigate to HomePage(file:src/test/java/features/Login.feature:15)
+</failure>
+    <system-out>&amp;#27;[31mF&amp;#27;[0m&amp;#27;[36m-&amp;#27;[0m&amp;#27;[36m-&amp;#27;[0m&amp;#27;[36m-&amp;#27;[0m&amp;#27;[36m-&amp;#27;[0m&amp;#27;[36m-&amp;#27;[0m&amp;#27;[36m-&amp;#27;[0m</system-out>
+    <system-err>Apr 02, 2019 8:04:03 PM org.openqa.selenium.remote.DesiredCapabilities chrome
+INFO: Using `new ChromeOptions()` is preferred to `DesiredCapabilities.chrome()`
+Apr 02, 2019 8:04:08 PM org.openqa.selenium.remote.ProtocolHandshake createSession
+INFO: Detected dialect: OSS
+</system-err>
+  </testcase>
+  <testcase classname="FirstTest" name="myTest" time="13.661"/>
+  <testcase classname="SecondTest" name="myTest" time="10.515"/>
+  <testcase classname="ThirdTest" name="myTest" time="5.748"/>
 </testsuite>

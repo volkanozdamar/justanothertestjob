@@ -9,15 +9,48 @@
 <table>
 <tr><th>Test</th><th># Passed</th><th># Skipped</th><th># Failed</th><th>Time (ms)</th><th>Included Groups</th><th>Excluded Groups</th></tr>
 <tr><th colspan="7">Command line suite</th></tr>
-<tr><td><a href="#t0">Command line test</a></td><td class="num">1</td><td class="num">0</td><td class="num attn">1</td><td class="num">20,164</td><td></td><td></td></tr>
+<tr><td><a href="#t0">Command line test</a></td><td class="num">3</td><td class="num">0</td><td class="num attn">6</td><td class="num">234,642</td><td></td><td></td></tr>
 </table>
-<table id='summary'><thead><tr><th>Class</th><th>Method</th><th>Start</th><th>Time (ms)</th></tr></thead><tbody><tr><th colspan="4">Command line suite</th></tr></tbody><tbody id="t0"><tr><th colspan="4">Command line test &#8212; failed</th></tr><tr class="failedeven"><td rowspan="1">SecondTest</td><td><a href="#m0">Deneme</a></td><td rowspan="1">1548397647750</td><td rowspan="1">1960</td></tr><tr><th colspan="4">Command line test &#8212; passed</th></tr><tr class="passedeven"><td rowspan="1">FirstTest</td><td><a href="#m1">Deneme</a></td><td rowspan="1">1548397645197</td><td rowspan="1">2486</td></tr></tbody>
+<table id='summary'><thead><tr><th>Class</th><th>Method</th><th>Start</th><th>Time (ms)</th></tr></thead><tbody><tr><th colspan="4">Command line suite</th></tr></tbody><tbody id="t0"><tr><th colspan="4">Command line test &#8212; failed</th></tr><tr class="failedeven"><td rowspan="6">CucumberTest</td><td><a href="#m0">runScenario</a></td><td rowspan="6">1554224567181</td><td rowspan="6">30096</td></tr><tr class="failedeven"><td><a href="#m1">runScenario</a></td></tr><tr class="failedeven"><td><a href="#m2">runScenario</a></td></tr><tr class="failedeven"><td><a href="#m3">runScenario</a></td></tr><tr class="failedeven"><td><a href="#m4">runScenario</a></td></tr><tr class="failedeven"><td><a href="#m5">runScenario</a></td></tr><tr><th colspan="4">Command line test &#8212; passed</th></tr><tr class="passedeven"><td rowspan="1">FirstTest</td><td><a href="#m6">myTest</a></td><td rowspan="1">1554224655081</td><td rowspan="1">13748</td></tr><tr class="passedodd"><td rowspan="1">SecondTest</td><td><a href="#m7">myTest</a></td><td rowspan="1">1554224668851</td><td rowspan="1">10515</td></tr><tr class="passedeven"><td rowspan="1">ThirdTest</td><td><a href="#m8">myTest</a></td><td rowspan="1">1554224679377</td><td rowspan="1">5747</td></tr></tbody>
 </table>
-<h2>Command line test</h2><h3 id="m0">SecondTest#Deneme</h3><table class="result"><tr><th>Exception</th></tr><tr><td><div class="stacktrace">java.lang.AssertionError: expected [You logged into a secure area!
-×] but found [You logged into a secure area!ü
-×]
-	at SecondTest.Deneme(SecondTest.java:39)
-... Removed 41 stack frames</div></td></tr></table><p class="totop"><a href="#summary">back to summary</a></p>
-<h3 id="m1">FirstTest#Deneme</h3><table class="result"><tr><th class="invisible"/></tr></table><p class="totop"><a href="#summary">back to summary</a></p>
+<h2>Command line test</h2><h3 id="m0">CucumberTest#runScenario</h3><table class="result"><tr class="param"><th>Parameter #1</th><th>Parameter #2</th></tr><tr class="param stripe"><td>&quot;Unsuccessful  Login Scenarios&quot;</td><td>&quot;Test login scenario&quot;</td></tr><tr><th colspan="2">Exception</th></tr><tr><td colspan="2"><div class="stacktrace">org.junit.ComparisonFailure: expected:&lt;En Trend [Ürünler Türkiye&apos;nin Online Alışveriş] Sitesi Trendyol&apos;da&gt; but was:&lt;En Trend [ÃœrÃ¼nler TÃ¼rkiye&apos;nin Online AlÄ±ÅŸveriÅŸ] Sitesi Trendyol&apos;da&gt;
+	at org.junit.Assert.assertEquals(Assert.java:117)
+	at org.junit.Assert.assertEquals(Assert.java:146)
+	at steps.LoginSteps.navigateToHomePage(LoginSteps.java:37)
+	at ✽.Navigate to HomePage(file:src/test/java/features/Login.feature:15)
+</div></td></tr></table><p class="totop"><a href="#summary">back to summary</a></p>
+<h3 id="m1">CucumberTest#runScenario</h3><table class="result"><tr class="param"><th>Parameter #1</th><th>Parameter #2</th></tr><tr class="param stripe"><td>&quot;Unsuccessful  Login Scenarios&quot;</td><td>&quot;Test login scenario&quot;</td></tr><tr><th colspan="2">Exception</th></tr><tr><td colspan="2"><div class="stacktrace">org.junit.ComparisonFailure: expected:&lt;En Trend [Ürünler Türkiye&apos;nin Online Alışveriş] Sitesi Trendyol&apos;da&gt; but was:&lt;En Trend [ÃœrÃ¼nler TÃ¼rkiye&apos;nin Online AlÄ±ÅŸveriÅŸ] Sitesi Trendyol&apos;da&gt;
+	at org.junit.Assert.assertEquals(Assert.java:117)
+	at org.junit.Assert.assertEquals(Assert.java:146)
+	at steps.LoginSteps.navigateToHomePage(LoginSteps.java:37)
+	at ✽.Navigate to HomePage(file:src/test/java/features/Login.feature:15)
+</div></td></tr></table><p class="totop"><a href="#summary">back to summary</a></p>
+<h3 id="m2">CucumberTest#runScenario</h3><table class="result"><tr class="param"><th>Parameter #1</th><th>Parameter #2</th></tr><tr class="param stripe"><td>&quot;Unsuccessful  Login Scenarios&quot;</td><td>&quot;Test login scenario&quot;</td></tr><tr><th colspan="2">Exception</th></tr><tr><td colspan="2"><div class="stacktrace">org.junit.ComparisonFailure: expected:&lt;En Trend [Ürünler Türkiye&apos;nin Online Alışveriş] Sitesi Trendyol&apos;da&gt; but was:&lt;En Trend [ÃœrÃ¼nler TÃ¼rkiye&apos;nin Online AlÄ±ÅŸveriÅŸ] Sitesi Trendyol&apos;da&gt;
+	at org.junit.Assert.assertEquals(Assert.java:117)
+	at org.junit.Assert.assertEquals(Assert.java:146)
+	at steps.LoginSteps.navigateToHomePage(LoginSteps.java:37)
+	at ✽.Navigate to HomePage(file:src/test/java/features/Login.feature:15)
+</div></td></tr></table><p class="totop"><a href="#summary">back to summary</a></p>
+<h3 id="m3">CucumberTest#runScenario</h3><table class="result"><tr class="param"><th>Parameter #1</th><th>Parameter #2</th></tr><tr class="param stripe"><td>&quot;Unsuccessful  Login Scenarios&quot;</td><td>&quot;Test login scenario&quot;</td></tr><tr><th colspan="2">Exception</th></tr><tr><td colspan="2"><div class="stacktrace">org.junit.ComparisonFailure: expected:&lt;En Trend [Ürünler Türkiye&apos;nin Online Alışveriş] Sitesi Trendyol&apos;da&gt; but was:&lt;En Trend [ÃœrÃ¼nler TÃ¼rkiye&apos;nin Online AlÄ±ÅŸveriÅŸ] Sitesi Trendyol&apos;da&gt;
+	at org.junit.Assert.assertEquals(Assert.java:117)
+	at org.junit.Assert.assertEquals(Assert.java:146)
+	at steps.LoginSteps.navigateToHomePage(LoginSteps.java:37)
+	at ✽.Navigate to HomePage(file:src/test/java/features/Login.feature:15)
+</div></td></tr></table><p class="totop"><a href="#summary">back to summary</a></p>
+<h3 id="m4">CucumberTest#runScenario</h3><table class="result"><tr class="param"><th>Parameter #1</th><th>Parameter #2</th></tr><tr class="param stripe"><td>&quot;Successful  Login Scenario&quot;</td><td>&quot;Test login scenario&quot;</td></tr><tr><th colspan="2">Exception</th></tr><tr><td colspan="2"><div class="stacktrace">org.junit.ComparisonFailure: expected:&lt;En Trend [Ürünler Türkiye&apos;nin Online Alışveriş] Sitesi Trendyol&apos;da&gt; but was:&lt;En Trend [ÃœrÃ¼nler TÃ¼rkiye&apos;nin Online AlÄ±ÅŸveriÅŸ] Sitesi Trendyol&apos;da&gt;
+	at org.junit.Assert.assertEquals(Assert.java:117)
+	at org.junit.Assert.assertEquals(Assert.java:146)
+	at steps.LoginSteps.navigateToHomePage(LoginSteps.java:37)
+	at ✽.Navigate to HomePage(file:src/test/java/features/Login.feature:5)
+</div></td></tr></table><p class="totop"><a href="#summary">back to summary</a></p>
+<h3 id="m5">CucumberTest#runScenario</h3><table class="result"><tr class="param"><th>Parameter #1</th><th>Parameter #2</th></tr><tr class="param stripe"><td>&quot;Unsuccessful  Login Scenarios&quot;</td><td>&quot;Test login scenario&quot;</td></tr><tr><th colspan="2">Exception</th></tr><tr><td colspan="2"><div class="stacktrace">org.junit.ComparisonFailure: expected:&lt;En Trend [Ürünler Türkiye&apos;nin Online Alışveriş] Sitesi Trendyol&apos;da&gt; but was:&lt;En Trend [ÃœrÃ¼nler TÃ¼rkiye&apos;nin Online AlÄ±ÅŸveriÅŸ] Sitesi Trendyol&apos;da&gt;
+	at org.junit.Assert.assertEquals(Assert.java:117)
+	at org.junit.Assert.assertEquals(Assert.java:146)
+	at steps.LoginSteps.navigateToHomePage(LoginSteps.java:37)
+	at ✽.Navigate to HomePage(file:src/test/java/features/Login.feature:15)
+</div></td></tr></table><p class="totop"><a href="#summary">back to summary</a></p>
+<h3 id="m6">FirstTest#myTest</h3><table class="result"><tr><th class="invisible"/></tr></table><p class="totop"><a href="#summary">back to summary</a></p>
+<h3 id="m7">SecondTest#myTest</h3><table class="result"><tr><th class="invisible"/></tr></table><p class="totop"><a href="#summary">back to summary</a></p>
+<h3 id="m8">ThirdTest#myTest</h3><table class="result"><tr><th class="invisible"/></tr></table><p class="totop"><a href="#summary">back to summary</a></p>
 </body>
 </html>

@@ -1,16 +1,46 @@
 -------------------------------------------------------------------------------
 Test set: TestSuite
 -------------------------------------------------------------------------------
-Tests run: 2, Failures: 1, Errors: 0, Skipped: 0, Time elapsed: 21.332 sec <<< FAILURE!
-Deneme(SecondTest)  Time elapsed: 1.964 sec  <<< FAILURE!
-java.lang.AssertionError: expected [You logged into a secure area!
-×] but found [You logged into a secure area!ü
-×]
-	at org.testng.Assert.fail(Assert.java:96)
-	at org.testng.Assert.failNotEquals(Assert.java:776)
-	at org.testng.Assert.assertEqualsImpl(Assert.java:137)
-	at org.testng.Assert.assertEquals(Assert.java:118)
-	at org.testng.Assert.assertEquals(Assert.java:453)
-	at org.testng.Assert.assertEquals(Assert.java:463)
-	at SecondTest.Deneme(SecondTest.java:39)
+Tests run: 9, Failures: 6, Errors: 0, Skipped: 0, Time elapsed: 236.185 sec <<< FAILURE!
+runScenario(CucumberTest)  Time elapsed: 31.844 sec  <<< FAILURE!
+org.junit.ComparisonFailure: expected:<En Trend [�r�nler T�rkiye'nin Online Al??veri?] Sitesi Trendyol'da> but was:<En Trend [Ürünler Türkiye'nin Online Alışveriş] Sitesi Trendyol'da>
+	at org.junit.Assert.assertEquals(Assert.java:117)
+	at org.junit.Assert.assertEquals(Assert.java:146)
+	at steps.LoginSteps.navigateToHomePage(LoginSteps.java:37)
+	at ?.Navigate to HomePage(file:src/test/java/features/Login.feature:5)
+
+runScenario(CucumberTest)  Time elapsed: 61.775 sec  <<< FAILURE!
+org.junit.ComparisonFailure: expected:<En Trend [�r�nler T�rkiye'nin Online Al??veri?] Sitesi Trendyol'da> but was:<En Trend [Ürünler Türkiye'nin Online Alışveriş] Sitesi Trendyol'da>
+	at org.junit.Assert.assertEquals(Assert.java:117)
+	at org.junit.Assert.assertEquals(Assert.java:146)
+	at steps.LoginSteps.navigateToHomePage(LoginSteps.java:37)
+	at ?.Navigate to HomePage(file:src/test/java/features/Login.feature:15)
+
+runScenario(CucumberTest)  Time elapsed: 30.097 sec  <<< FAILURE!
+org.junit.ComparisonFailure: expected:<En Trend [�r�nler T�rkiye'nin Online Al??veri?] Sitesi Trendyol'da> but was:<En Trend [Ürünler Türkiye'nin Online Alışveriş] Sitesi Trendyol'da>
+	at org.junit.Assert.assertEquals(Assert.java:117)
+	at org.junit.Assert.assertEquals(Assert.java:146)
+	at steps.LoginSteps.navigateToHomePage(LoginSteps.java:37)
+	at ?.Navigate to HomePage(file:src/test/java/features/Login.feature:15)
+
+runScenario(CucumberTest)  Time elapsed: 26.521 sec  <<< FAILURE!
+org.junit.ComparisonFailure: expected:<En Trend [�r�nler T�rkiye'nin Online Al??veri?] Sitesi Trendyol'da> but was:<En Trend [Ürünler Türkiye'nin Online Alışveriş] Sitesi Trendyol'da>
+	at org.junit.Assert.assertEquals(Assert.java:117)
+	at org.junit.Assert.assertEquals(Assert.java:146)
+	at steps.LoginSteps.navigateToHomePage(LoginSteps.java:37)
+	at ?.Navigate to HomePage(file:src/test/java/features/Login.feature:15)
+
+runScenario(CucumberTest)  Time elapsed: 19.589 sec  <<< FAILURE!
+org.junit.ComparisonFailure: expected:<En Trend [�r�nler T�rkiye'nin Online Al??veri?] Sitesi Trendyol'da> but was:<En Trend [Ürünler Türkiye'nin Online Alışveriş] Sitesi Trendyol'da>
+	at org.junit.Assert.assertEquals(Assert.java:117)
+	at org.junit.Assert.assertEquals(Assert.java:146)
+	at steps.LoginSteps.navigateToHomePage(LoginSteps.java:37)
+	at ?.Navigate to HomePage(file:src/test/java/features/Login.feature:15)
+
+runScenario(CucumberTest)  Time elapsed: 11.623 sec  <<< FAILURE!
+org.junit.ComparisonFailure: expected:<En Trend [�r�nler T�rkiye'nin Online Al??veri?] Sitesi Trendyol'da> but was:<En Trend [Ürünler Türkiye'nin Online Alışveriş] Sitesi Trendyol'da>
+	at org.junit.Assert.assertEquals(Assert.java:117)
+	at org.junit.Assert.assertEquals(Assert.java:146)
+	at steps.LoginSteps.navigateToHomePage(LoginSteps.java:37)
+	at ?.Navigate to HomePage(file:src/test/java/features/Login.feature:15)
 

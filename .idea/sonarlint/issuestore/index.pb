@@ -33,8 +33,6 @@ L
 src/test/java/ThirdTest.java,7\d\7d03058ac46c7d13aa3fa9340e84a632a79ee22f
 \
 ,src/main/java/screenshot/TakeScreenshot.java,a\d\adf7fb39d7eac2c14ab58c412fc81ffc807e49b7
-K
-src/test/java/MainTest.java,9\8\989ce762b4969b8a93ccc8fbdb6f514755f283f5
 Z
 *src/main/java/object_repository/Login.java,a\8\a805f022d2474c0812ae14d8a8256eadce31e185
 Z
@@ -43,3 +41,11 @@ B
 docker-compose.yml,3\5\35b8c13cf2eb2a194eada000eb310d65aed53b2a
 9
 	README.md,8\e\8ec9a00bfd09b3190ac6b22251dbb1aa95a0579d
+C
+azure-pipelines.yml,4\0\40ebc6823f24f296c0cd3fddd6ccda69b74ff2e4
+S
+#src/test/java/steps/LoginSteps.java,6\0\60a999fa2ae56d1081f61fa5b8a47ecba8253150
+T
+$src/test/java/features/Login.feature,7\5\7547904f979a4bd380ac2279c6a2328d8740ff94
+O
+src/test/java/CucumberTest.java,e\2\e286c0d59b89c99123a536c246f6abec3fb470be
