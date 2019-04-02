@@ -55,11 +55,11 @@ function toggleAllBoxes() {
 <body>
 <h2 align='center'>Command line test</h2><table border='1' align="center">
 <tr>
-<td>Tests passed/Failed/Skipped:</td><td>3/6/0</td>
+<td>Tests passed/Failed/Skipped:</td><td>8/1/0</td>
 </tr><tr>
-<td>Started on:</td><td>Tue Apr 02 20:00:52 EET 2019</td>
+<td>Started on:</td><td>Tue Apr 02 20:46:41 EET 2019</td>
 </tr>
-<tr><td>Total time:</td><td>234 seconds (234642 ms)</td>
+<tr><td>Total time:</td><td>187 seconds (187167 ms)</td>
 </tr><tr>
 <td>Included groups:</td><td></td>
 </tr><tr>
@@ -75,100 +75,20 @@ function toggleAllBoxes() {
 <td><b>Instance</b></td>
 </tr>
 <tr>
-<td title='CucumberTest.runScenario()'><b>runScenario</b><br>Test class: CucumberTest<br>Test method: Runs Cucumber Scenarios<br>Parameters: "Successful  Login Scenario", "Test login scenario"</td>
-<td><div><pre>org.junit.ComparisonFailure: expected:&lt;En Trend [Ürünler Türkiye&apos;nin Online Al??veri?] Sitesi Trendyol&apos;da&gt; but was:&lt;En Trend [ÃœrÃ¼nler TÃ¼rkiye&apos;nin Online AlÄ±ÅŸveriÅŸ] Sitesi Trendyol&apos;da&gt;
-	at org.junit.Assert.assertEquals(Assert.java:117)
-	at org.junit.Assert.assertEquals(Assert.java:146)
-	at steps.LoginSteps.navigateToHomePage(LoginSteps.java:37)
-	at ?.Navigate to HomePage(file:src/test/java/features/Login.feature:5)
-</pre></div><a href='#' onClick='toggleBox("stack-trace2021854618", this, "Click to show all stack frames", "Click to hide stack frames")'>Click to show all stack frames</a>
-<div class='stack-trace' id='stack-trace2021854618'><pre>org.junit.ComparisonFailure: expected:&lt;En Trend [Ürünler Türkiye&apos;nin Online Al??veri?] Sitesi Trendyol&apos;da&gt; but was:&lt;En Trend [ÃœrÃ¼nler TÃ¼rkiye&apos;nin Online AlÄ±ÅŸveriÅŸ] Sitesi Trendyol&apos;da&gt;
-	at org.junit.Assert.assertEquals(Assert.java:117)
-	at org.junit.Assert.assertEquals(Assert.java:146)
-	at steps.LoginSteps.navigateToHomePage(LoginSteps.java:37)
-	at ?.Navigate to HomePage(file:src/test/java/features/Login.feature:5)
-</pre></div></td>
-<td>31</td>
-<td>CucumberTest@6ab778a</td></tr>
-<tr>
 <td title='CucumberTest.runScenario()'><b>runScenario</b><br>Test class: CucumberTest<br>Test method: Runs Cucumber Scenarios<br>Parameters: "Unsuccessful  Login Scenarios", "Test login scenario"</td>
-<td><div><pre>org.junit.ComparisonFailure: expected:&lt;En Trend [Ürünler Türkiye&apos;nin Online Al??veri?] Sitesi Trendyol&apos;da&gt; but was:&lt;En Trend [ÃœrÃ¼nler TÃ¼rkiye&apos;nin Online AlÄ±ÅŸveriÅŸ] Sitesi Trendyol&apos;da&gt;
+<td><div><pre>org.junit.ComparisonFailure: expected:&lt;[Failed Scenario]&gt; but was:&lt;[Lütfen email adresinizi giriniz.]&gt;
 	at org.junit.Assert.assertEquals(Assert.java:117)
 	at org.junit.Assert.assertEquals(Assert.java:146)
-	at steps.LoginSteps.navigateToHomePage(LoginSteps.java:37)
-	at ?.Navigate to HomePage(file:src/test/java/features/Login.feature:15)
-</pre></div><a href='#' onClick='toggleBox("stack-trace576191199", this, "Click to show all stack frames", "Click to hide stack frames")'>Click to show all stack frames</a>
-<div class='stack-trace' id='stack-trace576191199'><pre>org.junit.ComparisonFailure: expected:&lt;En Trend [Ürünler Türkiye&apos;nin Online Al??veri?] Sitesi Trendyol&apos;da&gt; but was:&lt;En Trend [ÃœrÃ¼nler TÃ¼rkiye&apos;nin Online AlÄ±ÅŸveriÅŸ] Sitesi Trendyol&apos;da&gt;
+	at steps.LoginSteps.checkThe(LoginSteps.java:92)
+	at ?.Check the &quot;Failed Scenario&quot;(file:src/test/java/features/Login.feature:21)
+</pre></div><a href='#' onClick='toggleBox("stack-trace522188921", this, "Click to show all stack frames", "Click to hide stack frames")'>Click to show all stack frames</a>
+<div class='stack-trace' id='stack-trace522188921'><pre>org.junit.ComparisonFailure: expected:&lt;[Failed Scenario]&gt; but was:&lt;[Lütfen email adresinizi giriniz.]&gt;
 	at org.junit.Assert.assertEquals(Assert.java:117)
 	at org.junit.Assert.assertEquals(Assert.java:146)
-	at steps.LoginSteps.navigateToHomePage(LoginSteps.java:37)
-	at ?.Navigate to HomePage(file:src/test/java/features/Login.feature:15)
+	at steps.LoginSteps.checkThe(LoginSteps.java:92)
+	at ?.Check the &quot;Failed Scenario&quot;(file:src/test/java/features/Login.feature:21)
 </pre></div></td>
-<td>61</td>
-<td>CucumberTest@6ab778a</td></tr>
-<tr>
-<td title='CucumberTest.runScenario()'><b>runScenario</b><br>Test class: CucumberTest<br>Test method: Runs Cucumber Scenarios<br>Parameters: "Unsuccessful  Login Scenarios", "Test login scenario"</td>
-<td><div><pre>org.junit.ComparisonFailure: expected:&lt;En Trend [Ürünler Türkiye&apos;nin Online Al??veri?] Sitesi Trendyol&apos;da&gt; but was:&lt;En Trend [ÃœrÃ¼nler TÃ¼rkiye&apos;nin Online AlÄ±ÅŸveriÅŸ] Sitesi Trendyol&apos;da&gt;
-	at org.junit.Assert.assertEquals(Assert.java:117)
-	at org.junit.Assert.assertEquals(Assert.java:146)
-	at steps.LoginSteps.navigateToHomePage(LoginSteps.java:37)
-	at ?.Navigate to HomePage(file:src/test/java/features/Login.feature:15)
-</pre></div><a href='#' onClick='toggleBox("stack-trace1333938290", this, "Click to show all stack frames", "Click to hide stack frames")'>Click to show all stack frames</a>
-<div class='stack-trace' id='stack-trace1333938290'><pre>org.junit.ComparisonFailure: expected:&lt;En Trend [Ürünler Türkiye&apos;nin Online Al??veri?] Sitesi Trendyol&apos;da&gt; but was:&lt;En Trend [ÃœrÃ¼nler TÃ¼rkiye&apos;nin Online AlÄ±ÅŸveriÅŸ] Sitesi Trendyol&apos;da&gt;
-	at org.junit.Assert.assertEquals(Assert.java:117)
-	at org.junit.Assert.assertEquals(Assert.java:146)
-	at steps.LoginSteps.navigateToHomePage(LoginSteps.java:37)
-	at ?.Navigate to HomePage(file:src/test/java/features/Login.feature:15)
-</pre></div></td>
-<td>30</td>
-<td>CucumberTest@6ab778a</td></tr>
-<tr>
-<td title='CucumberTest.runScenario()'><b>runScenario</b><br>Test class: CucumberTest<br>Test method: Runs Cucumber Scenarios<br>Parameters: "Unsuccessful  Login Scenarios", "Test login scenario"</td>
-<td><div><pre>org.junit.ComparisonFailure: expected:&lt;En Trend [Ürünler Türkiye&apos;nin Online Al??veri?] Sitesi Trendyol&apos;da&gt; but was:&lt;En Trend [ÃœrÃ¼nler TÃ¼rkiye&apos;nin Online AlÄ±ÅŸveriÅŸ] Sitesi Trendyol&apos;da&gt;
-	at org.junit.Assert.assertEquals(Assert.java:117)
-	at org.junit.Assert.assertEquals(Assert.java:146)
-	at steps.LoginSteps.navigateToHomePage(LoginSteps.java:37)
-	at ?.Navigate to HomePage(file:src/test/java/features/Login.feature:15)
-</pre></div><a href='#' onClick='toggleBox("stack-trace327986890", this, "Click to show all stack frames", "Click to hide stack frames")'>Click to show all stack frames</a>
-<div class='stack-trace' id='stack-trace327986890'><pre>org.junit.ComparisonFailure: expected:&lt;En Trend [Ürünler Türkiye&apos;nin Online Al??veri?] Sitesi Trendyol&apos;da&gt; but was:&lt;En Trend [ÃœrÃ¼nler TÃ¼rkiye&apos;nin Online AlÄ±ÅŸveriÅŸ] Sitesi Trendyol&apos;da&gt;
-	at org.junit.Assert.assertEquals(Assert.java:117)
-	at org.junit.Assert.assertEquals(Assert.java:146)
-	at steps.LoginSteps.navigateToHomePage(LoginSteps.java:37)
-	at ?.Navigate to HomePage(file:src/test/java/features/Login.feature:15)
-</pre></div></td>
-<td>26</td>
-<td>CucumberTest@6ab778a</td></tr>
-<tr>
-<td title='CucumberTest.runScenario()'><b>runScenario</b><br>Test class: CucumberTest<br>Test method: Runs Cucumber Scenarios<br>Parameters: "Unsuccessful  Login Scenarios", "Test login scenario"</td>
-<td><div><pre>org.junit.ComparisonFailure: expected:&lt;En Trend [Ürünler Türkiye&apos;nin Online Al??veri?] Sitesi Trendyol&apos;da&gt; but was:&lt;En Trend [ÃœrÃ¼nler TÃ¼rkiye&apos;nin Online AlÄ±ÅŸveriÅŸ] Sitesi Trendyol&apos;da&gt;
-	at org.junit.Assert.assertEquals(Assert.java:117)
-	at org.junit.Assert.assertEquals(Assert.java:146)
-	at steps.LoginSteps.navigateToHomePage(LoginSteps.java:37)
-	at ?.Navigate to HomePage(file:src/test/java/features/Login.feature:15)
-</pre></div><a href='#' onClick='toggleBox("stack-trace1107218767", this, "Click to show all stack frames", "Click to hide stack frames")'>Click to show all stack frames</a>
-<div class='stack-trace' id='stack-trace1107218767'><pre>org.junit.ComparisonFailure: expected:&lt;En Trend [Ürünler Türkiye&apos;nin Online Al??veri?] Sitesi Trendyol&apos;da&gt; but was:&lt;En Trend [ÃœrÃ¼nler TÃ¼rkiye&apos;nin Online AlÄ±ÅŸveriÅŸ] Sitesi Trendyol&apos;da&gt;
-	at org.junit.Assert.assertEquals(Assert.java:117)
-	at org.junit.Assert.assertEquals(Assert.java:146)
-	at steps.LoginSteps.navigateToHomePage(LoginSteps.java:37)
-	at ?.Navigate to HomePage(file:src/test/java/features/Login.feature:15)
-</pre></div></td>
-<td>19</td>
-<td>CucumberTest@6ab778a</td></tr>
-<tr>
-<td title='CucumberTest.runScenario()'><b>runScenario</b><br>Test class: CucumberTest<br>Test method: Runs Cucumber Scenarios<br>Parameters: "Unsuccessful  Login Scenarios", "Test login scenario"</td>
-<td><div><pre>org.junit.ComparisonFailure: expected:&lt;En Trend [Ürünler Türkiye&apos;nin Online Al??veri?] Sitesi Trendyol&apos;da&gt; but was:&lt;En Trend [ÃœrÃ¼nler TÃ¼rkiye&apos;nin Online AlÄ±ÅŸveriÅŸ] Sitesi Trendyol&apos;da&gt;
-	at org.junit.Assert.assertEquals(Assert.java:117)
-	at org.junit.Assert.assertEquals(Assert.java:146)
-	at steps.LoginSteps.navigateToHomePage(LoginSteps.java:37)
-	at ?.Navigate to HomePage(file:src/test/java/features/Login.feature:15)
-</pre></div><a href='#' onClick='toggleBox("stack-trace2063275841", this, "Click to show all stack frames", "Click to hide stack frames")'>Click to show all stack frames</a>
-<div class='stack-trace' id='stack-trace2063275841'><pre>org.junit.ComparisonFailure: expected:&lt;En Trend [Ürünler Türkiye&apos;nin Online Al??veri?] Sitesi Trendyol&apos;da&gt; but was:&lt;En Trend [ÃœrÃ¼nler TÃ¼rkiye&apos;nin Online AlÄ±ÅŸveriÅŸ] Sitesi Trendyol&apos;da&gt;
-	at org.junit.Assert.assertEquals(Assert.java:117)
-	at org.junit.Assert.assertEquals(Assert.java:146)
-	at steps.LoginSteps.navigateToHomePage(LoginSteps.java:37)
-	at ?.Navigate to HomePage(file:src/test/java/features/Login.feature:15)
-</pre></div></td>
-<td>11</td>
+<td>12</td>
 <td>CucumberTest@6ab778a</td></tr>
 </table><p>
 <table width='100%' border='1' class='invocation-passed'>
@@ -181,18 +101,43 @@ function toggleAllBoxes() {
 <tr>
 <td title='FirstTest.myTest()'><b>myTest</b><br>Test class: FirstTest<br>Test method: First Test</td>
 <td></td>
-<td>13</td>
+<td>10</td>
 <td>FirstTest@4c309d4d</td></tr>
 <tr>
 <td title='SecondTest.myTest()'><b>myTest</b><br>Test class: SecondTest<br>Test method: Second Test</td>
 <td></td>
-<td>10</td>
+<td>9</td>
 <td>SecondTest@38102d01</td></tr>
 <tr>
 <td title='ThirdTest.myTest()'><b>myTest</b><br>Test class: ThirdTest<br>Test method: Successful Login</td>
 <td></td>
-<td>5</td>
+<td>14</td>
 <td>ThirdTest@37883b97</td></tr>
+<tr>
+<td title='CucumberTest.runScenario()'><b>runScenario</b><br>Test class: CucumberTest<br>Test method: Runs Cucumber Scenarios<br>Parameters: "Successful  Login Scenario", "Test login scenario"</td>
+<td></td>
+<td>47</td>
+<td>CucumberTest@6ab778a</td></tr>
+<tr>
+<td title='CucumberTest.runScenario()'><b>runScenario</b><br>Test class: CucumberTest<br>Test method: Runs Cucumber Scenarios<br>Parameters: "Unsuccessful  Login Scenarios", "Test login scenario"</td>
+<td></td>
+<td>30</td>
+<td>CucumberTest@6ab778a</td></tr>
+<tr>
+<td title='CucumberTest.runScenario()'><b>runScenario</b><br>Test class: CucumberTest<br>Test method: Runs Cucumber Scenarios<br>Parameters: "Unsuccessful  Login Scenarios", "Test login scenario"</td>
+<td></td>
+<td>12</td>
+<td>CucumberTest@6ab778a</td></tr>
+<tr>
+<td title='CucumberTest.runScenario()'><b>runScenario</b><br>Test class: CucumberTest<br>Test method: Runs Cucumber Scenarios<br>Parameters: "Unsuccessful  Login Scenarios", "Test login scenario"</td>
+<td></td>
+<td>12</td>
+<td>CucumberTest@6ab778a</td></tr>
+<tr>
+<td title='CucumberTest.runScenario()'><b>runScenario</b><br>Test class: CucumberTest<br>Test method: Runs Cucumber Scenarios<br>Parameters: "Unsuccessful  Login Scenarios", "Test login scenario"</td>
+<td></td>
+<td>12</td>
+<td>CucumberTest@6ab778a</td></tr>
 </table><p>
 </body>
 </html>

@@ -706,3 +706,97 @@ LoginSteps - INFO: Test Failure,Screenshot Saved - 20:28:47.071
 FirstTest - INFO: Test Close - 20:28:47.164
 SecondTest - INFO: Test Close - 20:29:01.011
 ThirdTest - INFO: Test Close - 20:29:07.497
+PropertiesFile - INFO: Default browser is :chrome - 20:46:41.194
+TestBase - INFO: Test Started with : chrome browser - 20:46:41.196
+PropertiesFile - INFO: Default url is :https://www.trendyol.com/Butik/Liste/Erkek - 20:46:47.502
+TestBase - INFO: Browser Launched - 20:46:49.363
+PropertiesFile - INFO: Default browser is :chrome - 20:46:49.591
+TestBase - INFO: Test Started with : chrome browser - 20:46:49.592
+PropertiesFile - INFO: Default url is :https://www.trendyol.com/Butik/Liste/Erkek - 20:46:54.133
+TestBase - INFO: Browser Launched - 20:46:56.509
+PropertiesFile - INFO: Default browser is :chrome - 20:46:56.669
+TestBase - INFO: Test Started with : chrome browser - 20:46:56.670
+PropertiesFile - INFO: Default url is :https://www.trendyol.com/Butik/Liste/Erkek - 20:47:00.202
+TestBase - INFO: Browser Launched - 20:47:03.044
+PropertiesFile - INFO: Default browser is :chrome - 20:47:04.351
+TestBase - INFO: Test Started with : chrome browser - 20:47:04.351
+TestBase - INFO: Browser Launched with : https://www.trendyol.com/ - 20:47:43.722
+WaitHelper - INFO: waiting for :[[RemoteWebDriver: chrome on LINUX (a5e2eb1ae5b50cbedd97e9bc0ac4d23c)] -> class name: login-register-button-container] for :30 seconds - 20:47:47.850
+WaitHelper - INFO: element is visible now - 20:47:47.918
+WaitHelper - INFO: waiting for :[[RemoteWebDriver: chrome on LINUX (a5e2eb1ae5b50cbedd97e9bc0ac4d23c)] -> xpath: //div[contains(@class,'account-button login')]] for :30 seconds - 20:47:48.191
+WaitHelper - INFO: element is visible now - 20:47:48.318
+WaitHelper - INFO: waiting for :[[RemoteWebDriver: chrome on LINUX (a5e2eb1ae5b50cbedd97e9bc0ac4d23c)] -> id: popupLoginMain] for :30 seconds - 20:47:48.990
+WaitHelper - INFO: element is visible now - 20:47:49.506
+PropertiesFile - INFO: Default browser is :chrome - 20:47:51.642
+TestBase - INFO: Test Started with : chrome browser - 20:47:51.642
+TestBase - INFO: Browser Launched with : https://www.trendyol.com/ - 20:48:16.140
+WaitHelper - INFO: waiting for :[[RemoteWebDriver: chrome on LINUX (bd538af36dd5efe8f7e04b2c3cf75fc4)] -> class name: login-register-button-container] for :30 seconds - 20:48:18.146
+WaitHelper - INFO: element is visible now - 20:48:18.214
+WaitHelper - INFO: waiting for :[[RemoteWebDriver: chrome on LINUX (bd538af36dd5efe8f7e04b2c3cf75fc4)] -> xpath: //div[contains(@class,'account-button login')]] for :30 seconds - 20:48:18.384
+WaitHelper - INFO: element is visible now - 20:48:18.567
+WaitHelper - INFO: waiting for :[[RemoteWebDriver: chrome on LINUX (bd538af36dd5efe8f7e04b2c3cf75fc4)] -> id: popupLoginMain] for :30 seconds - 20:48:19.186
+WaitHelper - INFO: element is visible now - 20:48:19.469
+WaitHelper - INFO: waiting for :[[RemoteWebDriver: chrome on LINUX (bd538af36dd5efe8f7e04b2c3cf75fc4)] -> id: errorBox] for :30 seconds - 20:48:21.497
+WaitHelper - INFO: element is visible now - 20:48:21.545
+PropertiesFile - INFO: Default browser is :chrome - 20:48:21.747
+TestBase - INFO: Test Started with : chrome browser - 20:48:21.747
+TestBase - INFO: Browser Launched with : https://www.trendyol.com/ - 20:48:29.050
+WaitHelper - INFO: waiting for :[[RemoteWebDriver: chrome on LINUX (e9269c64227063f17ce62e85e305bb65)] -> class name: login-register-button-container] for :30 seconds - 20:48:31.173
+WaitHelper - INFO: element is visible now - 20:48:31.231
+WaitHelper - INFO: waiting for :[[RemoteWebDriver: chrome on LINUX (e9269c64227063f17ce62e85e305bb65)] -> xpath: //div[contains(@class,'account-button login')]] for :30 seconds - 20:48:31.390
+WaitHelper - INFO: element is visible now - 20:48:32.040
+WaitHelper - INFO: waiting for :[[RemoteWebDriver: chrome on LINUX (e9269c64227063f17ce62e85e305bb65)] -> id: popupLoginMain] for :30 seconds - 20:48:32.536
+WaitHelper - INFO: element is visible now - 20:48:32.833
+WaitHelper - INFO: waiting for :[[RemoteWebDriver: chrome on LINUX (e9269c64227063f17ce62e85e305bb65)] -> id: errorBox] for :30 seconds - 20:48:34.390
+WaitHelper - INFO: element is visible now - 20:48:34.469
+PropertiesFile - INFO: Default browser is :chrome - 20:48:34.735
+TestBase - INFO: Test Started with : chrome browser - 20:48:34.735
+TestBase - INFO: Browser Launched with : https://www.trendyol.com/ - 20:48:43.639
+WaitHelper - INFO: waiting for :[[RemoteWebDriver: chrome on LINUX (b7979ff3aa5ae6925ee9f56e2b000ace)] -> class name: login-register-button-container] for :30 seconds - 20:48:44.039
+WaitHelper - INFO: element is visible now - 20:48:44.110
+WaitHelper - INFO: waiting for :[[RemoteWebDriver: chrome on LINUX (b7979ff3aa5ae6925ee9f56e2b000ace)] -> xpath: //div[contains(@class,'account-button login')]] for :30 seconds - 20:48:44.322
+WaitHelper - INFO: element is visible now - 20:48:44.389
+WaitHelper - INFO: waiting for :Proxy element for: DefaultElementLocator 'By.id: popupLoginMain' for :30 seconds - 20:48:44.956
+WaitHelper - INFO: element is visible now - 20:48:45.139
+WaitHelper - INFO: waiting for :[[RemoteWebDriver: chrome on LINUX (b7979ff3aa5ae6925ee9f56e2b000ace)] -> id: errorBox] for :30 seconds - 20:48:46.934
+WaitHelper - INFO: element is visible now - 20:48:47.019
+PropertiesFile - INFO: Default browser is :chrome - 20:48:47.261
+TestBase - INFO: Test Started with : chrome browser - 20:48:47.261
+TestBase - INFO: Browser Launched with : https://www.trendyol.com/ - 20:48:54.501
+WaitHelper - INFO: waiting for :[[RemoteWebDriver: chrome on LINUX (9391225c0a610166da57a43bdb3a4ce0)] -> class name: login-register-button-container] for :30 seconds - 20:48:56.634
+WaitHelper - INFO: element is visible now - 20:48:56.699
+WaitHelper - INFO: waiting for :[[RemoteWebDriver: chrome on LINUX (9391225c0a610166da57a43bdb3a4ce0)] -> xpath: //div[contains(@class,'account-button login')]] for :30 seconds - 20:48:56.800
+WaitHelper - INFO: element is visible now - 20:48:56.911
+WaitHelper - INFO: waiting for :Proxy element for: DefaultElementLocator 'By.id: popupLoginMain' for :30 seconds - 20:48:57.523
+WaitHelper - INFO: element is visible now - 20:48:57.716
+WaitHelper - INFO: waiting for :[[RemoteWebDriver: chrome on LINUX (9391225c0a610166da57a43bdb3a4ce0)] -> id: errorBox] for :30 seconds - 20:48:59.101
+WaitHelper - INFO: element is visible now - 20:48:59.183
+PropertiesFile - INFO: Default browser is :chrome - 20:48:59.326
+TestBase - INFO: Test Started with : chrome browser - 20:48:59.326
+TestBase - INFO: Browser Launched with : https://www.trendyol.com/ - 20:49:05.070
+WaitHelper - INFO: waiting for :[[RemoteWebDriver: chrome on LINUX (1786b20b1e97cd00d714f5ac21b06c2b)] -> class name: login-register-button-container] for :30 seconds - 20:49:06.470
+WaitHelper - INFO: element is visible now - 20:49:06.547
+WaitHelper - INFO: waiting for :[[RemoteWebDriver: chrome on LINUX (1786b20b1e97cd00d714f5ac21b06c2b)] -> xpath: //div[contains(@class,'account-button login')]] for :30 seconds - 20:49:07.335
+WaitHelper - INFO: element is visible now - 20:49:07.422
+WaitHelper - INFO: waiting for :[[RemoteWebDriver: chrome on LINUX (1786b20b1e97cd00d714f5ac21b06c2b)] -> id: popupLoginMain] for :30 seconds - 20:49:08.069
+WaitHelper - INFO: element is visible now - 20:49:08.213
+WaitHelper - INFO: waiting for :[[RemoteWebDriver: chrome on LINUX (1786b20b1e97cd00d714f5ac21b06c2b)] -> id: errorBox] for :30 seconds - 20:49:09.462
+WaitHelper - INFO: element is visible now - 20:49:09.533
+LoginSteps - INFO: Test Failure,Screenshot Saved - 20:49:11.757
+FirstTest - INFO: Test Done Completely - 20:49:22.439
+FirstTest - INFO: Browser Closed - 20:49:22.440
+WaitHelper - INFO: waiting for :[[RemoteWebDriver: chrome on LINUX (8bbcb4d0261b6a60acffd68220cc0fcb)] -> class name: site-footer] for :100000000 seconds - 20:49:25.295
+WaitHelper - INFO: element is visible now - 20:49:31.484
+SecondTest - INFO: Test Done Completely - 20:49:32.027
+SecondTest - INFO: Browser Closed - 20:49:32.028
+WaitHelper - INFO: waiting for :[[RemoteWebDriver: chrome on LINUX (954b5d29c73cc5b07ebcf8a913243973)] -> class name: login-register-button-container] for :30 seconds - 20:49:33.679
+WaitHelper - INFO: element is visible now - 20:49:34.045
+WaitHelper - INFO: waiting for :[[RemoteWebDriver: chrome on LINUX (954b5d29c73cc5b07ebcf8a913243973)] -> xpath: //div[contains(@class,'account-button login')]] for :30 seconds - 20:49:35.744
+WaitHelper - INFO: element is visible now - 20:49:35.816
+WaitHelper - INFO: waiting for :[[RemoteWebDriver: chrome on LINUX (954b5d29c73cc5b07ebcf8a913243973)] -> id: popupLoginMain] for :20 seconds - 20:49:38.891
+WaitHelper - INFO: element is visible now - 20:49:43.816
+ThirdTest - INFO: Test Done Completely - 20:49:46.726
+ThirdTest - INFO: Browser Closed - 20:49:46.726
+FirstTest - INFO: Test Close - 20:49:46.732
+SecondTest - INFO: Test Close - 20:49:47.017
+ThirdTest - INFO: Test Close - 20:49:48.072
